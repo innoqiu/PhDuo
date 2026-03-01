@@ -1,0 +1,527 @@
+# Match Analysis Log
+# Generated: 2026-02-09T11:03:57.437270
+# Professor: Dr. Yulin Liu (刘玉林)
+# Student: Fangze Qiu
+# ============================================================
+
+# Professor & Lab Analysis Report
+
+                    ## 0. Executive Snapshot (≤10 bullets)
+- Positives
+  - Interdisciplinary focus at the intersection of game theory, monetary economics, and blockchain technology (evidence: profile states “Exploring the intersection of game theory, monetary economics, and blockchain technology”).
+  - Strong quantitative and empirical orientation with open data/code practices (evidence: items include “Comprehensive empirical study analyzing the impact of Ethereum’s EIP-1559…”, “Harvard Dataverse” dataset/tools for Bitcoin research, and an “Open-source repository… enabling reproducible research”).
+  - Breadth spanning blockchain economics, monetary policy, AI & finance, governance, and network analysis (evidence: research items cover EIP-1559, forward guidance, explainable AI for crypto valuation, blockchain decentralization, governance, and comparative network analysis).
+  - Industry and policy linkages alongside academia, potentially enabling applied projects (evidence: background lists Chief Economist/Research Lead/Advisor roles with Liquity, Dfinity, Origyn, Chainlink; Visiting Economist/Founding President at Bank of Finland; council member in a decentralized foundation).
+  - Listed funding sources include multiple blockchain-related ecosystems (evidence: “ICP grants”, “Ethereum consensus grants”, “Ethereum Foundation”).
+
+- Risks/Unknowns
+  - Team size and composition are not disclosed (evidence: team member list is not provided in the profile).
+  - Hiring status and application process are not stated (evidence: no application protocol, requirements, or target audience information).
+  - Freshness signals (news, latest publication date, site updates) are not provided (evidence: no latest news/publication/footer update dates).
+  - Department and lab name within the university are unspecified (evidence: affiliation shows university but department and lab name are not provided).
+  - Alumni outcomes and mentorship track record are not visible (evidence: no alumni list or mentoring signals provided).
+
+## 1. Data Quality & Freshness
+1.1 Coverage assessment  
+- Present: PI identity (name/title/affiliation), a rich background log (degrees and roles), a clear research-interest statement, a set of research items with URLs, application domains, a venue indicator (“Harvard Dataverse”), and a list of funding sources.  
+- Missing: Department and lab name; team composition; sub-mentoring signals; alumni outcomes; hiring status; application process; required materials; target audience; news/publication recency.  
+- Impact: The research scope is well signposted via projects and domains, but mentorship style, lab size, culture, and current recruitment are not verifiable from this profile alone. Alumni outcomes and lab processes cannot be assessed from the provided data.
+
+1.2 Freshness assessment  
+- No explicit freshness indicators (evidence: latest news date, latest publication date, and last-updated footer are not provided).  
+- The background log includes recent date ranges (e.g., “2025 – Present” at Technische Universität München and “2024 – Present” council role), which suggests current activity, but without explicit update timestamps this cannot be fully validated.
+
+1.3 Confidence disclaimer  
+- Many conclusions about mentorship style, hiring, team culture, and operational maturity are necessarily tentative due to missing signals. Interpretations are provided with confidence levels and grounded in the limited available evidence; applicants should revalidate with direct contact and more recent materials.
+
+## 2. A. Research & Mentorship
+### 2.1 Research Areas & Trajectory
+- Primary themes (ranked)
+  1) Blockchain Economics and Governance  
+     - Evidence: “Empirical Analysis of EIP-1559” (impact on fees, waiting times, network security); “SoK: Blockchain Decentralization”; “The Economics of Blockchain Governance”; “Blockchain Network Analysis”; application domains include “Blockchain Economics,” “Blockchain Governance.”
+  2) Monetary Policy and Macroeconomics  
+     - Evidence: “Versatile Forward Guidance,” “Forward Guidance Contracts,” “Macroprudential Policy in the New Keynesian World.”
+  3) Data Analytics / Network Analysis / Open Data  
+     - Evidence: “Deciphering Bitcoin Blockchain Data” (cohort analysis), “Harvard Dataverse” dataset/tools, “Data and Codes” open-source repository.
+
+- Secondary themes / adjacent domains  
+  - AI & Finance, Trading Strategy, Stablecoins  
+    - Evidence: “Cryptocurrency Valuation” (explainable AI for pricing), “Bitcoin Gold, Litecoin Silver,” and “Stable Coins Backed by Real-World Assets.”
+
+- Overarching framing  
+  - Evidence: The profile states an interest in the intersection of game theory, monetary economics, and blockchain technology; venues include Harvard Dataverse; domains include AI & Finance and Stablecoins, indicating a cross-cutting agenda linking economics, computation, and blockchain systems.
+
+### 2.2 Research Style Classification (multi-label)
+- Qualitative / Human-centered: 1/5  
+  - Evidence: Governance and decentralization topics could involve qualitative reasoning (“The Economics of Blockchain Governance,” “SoK: Blockchain Decentralization”), but most artifacts emphasize empirical/theoretical methods.  
+  - Interpretation: Qualitative elements likely exist but are not the dominant modality.  
+  - Confidence: 45%
+
+- Quantitative / Statistical / Modeling: 5/5  
+  - Evidence: “Comprehensive empirical study analyzing…EIP-1559,” “Novel approach… advanced cohort analysis,” “Theoretical and empirical investigation… forward guidance,” “comparative network analysis,” “explainable AI techniques.”  
+  - Interpretation: Strong empirical and modeling emphasis across economics and blockchain data.  
+  - Confidence: 90%
+
+- Systems / “Hardcore coding” / Tool-building: 3/5  
+  - Evidence: “Data and Codes” (open-source repository enabling reproducible research); “Harvard Dataverse” dataset and tools.  
+  - Interpretation: Tooling and datasets suggest some engineering contributions, though systems design/implementation is not the core theme.  
+  - Confidence: 60%
+
+- Experimental / Wet lab / Bench science: 0/5  
+  - Evidence: No wet-lab or bench science indicated.  
+  - Interpretation: Not applicable to this domain.  
+  - Confidence: 95%
+
+- Theory / Methods: 4/5  
+  - Evidence: “Theoretical and empirical investigation…,” “Theoretical framework for designing optimal forward guidance contracts,” systematic review of decentralization mechanisms.  
+  - Interpretation: Substantial theoretical and methodological components alongside empirics.  
+  - Confidence: 80%
+
+- Translational / Applied (industry/clinical): 4/5  
+  - Evidence: Roles listed with blockchain projects (Liquity, Dfinity, Origyn, Chainlink), and projects like “Stable Coins Backed by Real-World Assets” and “Bitcoin Gold, Litecoin Silver.”  
+  - Interpretation: Clear applied finance/blockchain orientation with industry touchpoints.  
+  - Confidence: 70%
+
+### 2.3 Mentorship Style (hands-on ↔ hands-off)
+- Spectrum position (1=very hands-on, 7=very hands-off): 4 (midpoint-leaning)  
+- Evidence (direct): None available on advising cadence or lab policies.  
+- Inference (Low confidence):  
+  - Rationale: The portfolio shows diverse, cross-domain projects (economics, blockchain data, governance, AI for finance) and open-source/data artifacts, which may correlate with giving students room for independent, quantitative projects. Conversely, absence of team information prevents reliable inference about hands-on involvement.  
+  - Confidence: 30%
+
+### 2.4 Project Breadth vs Focus
+- Inference: Portfolio-style breadth within a unifying theme of economics + blockchain.  
+- Evidence: Multiple domains listed (Blockchain Economics, Monetary Policy, AI & Finance, Governance, Network Analysis, Stablecoins) and varied research items (empirical EIP-1559, monetary theory/policy, explainable AI, decentralization SoK, governance, datasets, open-source tools).  
+- Implications (Inference, Medium confidence):  
+  - Topic freedom likely reasonable within the economics–blockchain space; switching across subareas (e.g., governance ↔ valuation ↔ network analysis) may be feasible but could entail learning new methods.  
+  - Fragmentation risk exists if goals are not tightly coordinated due to breadth.  
+- Confidence: 55%
+
+### 2.5 Mentorship Track Record Proxies
+- Evidence: No team list, sub-mentoring signals, or alumni outcomes are provided.  
+- What can be concluded: Direct mentoring track record and alumni trajectories are unknown from this profile.  
+- What cannot be concluded: Student count, placement outcomes, advising intensity, or lab culture patterns.
+
+## 3. B. Recruitment & Funding Situation
+### 3.1 Hiring Likelihood
+- Classification: Unclear  
+- Evidence: No hiring status, application instructions, required materials, or target audience are provided.  
+- Notes: Although the title “PhD Mentor” at Technische Universität München (listed “2025 – Present”) suggests mentoring capacity, this does not establish current recruitment.  
+- Confidence: 25%
+
+### 3.2 Funding Health (inference-only unless explicit)
+- Funding strength estimate: Moderate (tentative)  
+- Evidence: Funding sources listed as “ICP grants,” “Ethereum consensus grants,” and “Ethereum Foundation.”  
+- Rationale (Inference): Multiple sources suggest diversified support relevant to blockchain research, but no amounts/dates are provided.  
+- Confidence: 50%
+
+### 3.3 Preferred Student Profile (skills & traits)
+- Must-have skills (Inference)  
+  - Quantitative/empirical methods in economics/finance or data science (evidence: empirical EIP-1559, cohort analysis, macro/monetary modeling).  
+  - Ability to work with blockchain data and network analysis (evidence: Bitcoin data cohort analysis; comparative network analysis; datasets).  
+- Nice-to-have skills (Inference)  
+  - Explainable AI/ML for finance/crypto (evidence: “Cryptocurrency Valuation” with explainable AI).  
+  - Knowledge of governance and decentralization economics (evidence: SoK on decentralization; blockchain governance analysis).  
+  - Open-source and reproducible research practices (evidence: GitHub “Data and Codes,” Harvard Dataverse dataset/tools).  
+- Signals of independence expected (Inference, Low–Medium confidence)  
+  - Breadth of topics and open resources may indicate self-directed, quantitatively rigorous projects are valued; however, lack of team/process info tempers certainty.  
+- Best-fit applicant archetypes (2–4)  
+  - Quantitative economist interested in blockchain/monetary policy (evidence: forward guidance, macroprudential policy, blockchain economics).  
+  - Data scientist/engineer focused on blockchain analytics and network science (evidence: cohort analysis on Bitcoin, network analysis of decentralized banking protocols, datasets/tools).  
+  - AI/ML researcher aiming at explainable models for crypto markets (evidence: explainable AI for cryptocurrency valuation).  
+  - Policy-economics researcher bridging governance mechanisms and economic design (evidence: blockchain governance; decentralization SoK).  
+  - Confidence: 55%
+
+### 3.4 “Worked-with-before” Pattern
+- Evidence: No team or alumni lists to identify destinations/roles.  
+- Inference: Unknown. Industry orientation is suggested by listed advisory/economist roles in blockchain projects, but this is not a substitute for alumni outcomes.  
+- Confidence: 20%
+
+## 4. C. Lab Culture & Working Norms (inferred carefully)
+- Collaboration vs individual ownership (Inference)  
+  - Hypothesis: Collaborative and open, with an emphasis on reproducibility and shared resources.  
+  - Evidence: Public datasets/tools (Harvard Dataverse) and open-source code repository indicate a culture of sharing and replication.  
+  - Confidence: 45%  
+- Feedback cadence hypothesis  
+  - Evidence: Not available in profile.  
+  - Inference: Unknown; cannot assess meeting/workflow cadence.  
+  - Confidence: N/A  
+- Stability/turnover risks  
+  - Evidence: No ghosting signals or alumni turnover data are provided.  
+  - Inference: Unknown; insufficient data to assess stability.  
+  - Confidence: N/A  
+- Important caveat: Culture is often not visible from public artifacts; applicants should verify directly with current students and the PI.
+
+## 5. D. Additional Categories
+- D1. Student Outcomes & Career Pipeline  
+  - Evidence: Not available in profile (no alumni outcomes).  
+  - Inference: Unknown. The PI’s industry/policy engagements suggest exposure to non-academic pathways, but this is not evidence of student placements.  
+  - Confidence: 20%
+
+- D2. Lab Operational Maturity (process, onboarding, documentation)  
+  - Evidence: Open-source repository for decentralization research and a curated dataset/tools on Harvard Dataverse.  
+  - Inference: The presence of reproducible artifacts suggests some operational emphasis on documentation and data/code hygiene; onboarding/process maturity beyond this is unknown.  
+  - Confidence: 50%
+
+- D3. Collaboration Network & Interdisciplinarity  
+  - Evidence: Research spans economics, blockchain systems, AI & finance; artifacts appear in venues like Harvard Dataverse; background includes roles across academia (ETH Zurich, HUST, NYU Shanghai), policy (Bank of Finland), and industry (Liquity, Dfinity, Chainlink).  
+  - Inference: Interdisciplinary orientation and cross-sector collaboration potential are strong.  
+  - Confidence: 65%
+
+- D4. Responsiveness / Communication Risk  
+  - Evidence: No freshness indicators (no latest news/publication/last-updated data).  
+  - Inference: Low visibility into communication cadence and up-to-dateness; applicants should verify responsiveness directly.  
+  - Confidence: 35%
+
+## 6. Fit Assessment & Decision Aids
+### 6.1 Fit Matrix (student type × lab type)
+
+| Will likely thrive | May struggle |
+| --- | --- |
+| Quantitative economics or data-science candidates who enjoy empirical blockchain research and reproducible workflows (evidence: empirical EIP-1559 study; Bitcoin cohort analysis; datasets/tools; inference confidence: 70%). | Students needing tightly defined, narrow topics with frequent, prescriptive guidance (evidence: broad domain coverage and open resources suggest autonomy; direct mentoring cadence is unknown; inference confidence: 40%). |
+| Applicants interested in AI/ML applications to finance/crypto, especially explainability (evidence: “Cryptocurrency Valuation” with explainable AI; inference confidence: 60%). | Candidates averse to cross-disciplinary learning across economics, data science, and blockchain (evidence: portfolio across economics, data, AI, governance; inference confidence: 60%). |
+| Researchers keen on governance/decentralization economics and network analysis (evidence: SoK decentralization, blockchain governance, network analysis; inference confidence: 65%). | Students seeking wet-lab or non-quantitative qualitative-only projects (evidence: no experimental/wet-lab; strong quantitative emphasis; inference confidence: 85%). |
+| Practically minded candidates interested in industry-relevant crypto-economic problems (evidence: roles in blockchain organizations; stablecoins/trading strategy topics; inference confidence: 55%). | Applicants requiring clear public hiring protocols and structured application materials (evidence: hiring/application details not provided; inference confidence: 70%). |
+
+### 6.2 Red Flags / Yellow Flags / Green Flags
+- Red Flags
+  - No visible team or alumni data → mentoring capacity and outcomes cannot be evaluated (evidence: team and alumni information not provided; interpretation: risk of limited transparency; confidence: 70%).  
+  - No hiring/application details → uncertainty in recruiting and entry timing (evidence: no application protocol/materials; interpretation: unclear pathways for applicants; confidence: 75%).  
+  - No freshness indicators → uncertain recency of information (evidence: no latest news/publication/site update; interpretation: could indicate low website maintenance; confidence: 60%).
+
+- Yellow Flags
+  - Breadth across many domains → potential for project fragmentation without strong coordination (evidence: topics span blockchain economics, governance, AI & finance, network analysis, monetary policy; interpretation: breadth may raise switching costs; confidence: 55%).  
+  - Funding sources listed without details → unclear scale/duration (evidence: multiple sources named but no amounts/dates; interpretation: funding stability unknown; confidence: 50%).  
+  - Department/lab name unspecified → institutional home within TUM unclear (evidence: affiliation lacks department/lab name; interpretation: may complicate administrative processes; confidence: 50%).
+
+- Green Flags
+  - Strong quantitative and methodological grounding (evidence: empirical and theoretical works in EIP-1559, forward guidance, network analysis; interpretation: rigorous training environment; confidence: 80%).  
+  - Open-source and open-data practices (evidence: GitHub codebase and Harvard Dataverse dataset/tools; interpretation: encourages reproducibility and collaboration; confidence: 70%).  
+  - Cross-sector exposure (academia, policy, industry) (evidence: roles with Bank of Finland and blockchain organizations; interpretation: potential for applied impact and diverse networks; confidence: 60%).
+
+### 6.3 Verification Checklist (what to confirm externally)
+- Speak with current students or advisees (if any) to understand advising style, meeting cadence, and project scoping.
+- Ask the PI about current/open PhD positions, application steps, evaluation criteria, and timelines.
+- Review 3–5 listed works (EIP-1559 analysis; Bitcoin cohort analysis; forward guidance papers; decentralization SoK; governance paper) for methodological fit and your skill alignment.
+- Confirm funding availability for multi-year PhD support and the sources’ continuity.
+- Clarify departmental home and administrative affiliation within TUM.
+- Verify access to compute/data resources and expectations for code/data sharing.
+- Check whether the listed datasets/tools are actively maintained and the contribution workflow.
+- Request examples of recent student outcomes (placements, publications, internships).
+- Confirm expectations for industry collaborations and IP/open-source policies.
+- Ask about culture: collaboration norms, authorship, and lab-wide seminars/code reviews.
+
+## 7. Revalidation Aids (for the applicant to verify offline)
+### 7.1 Highest-Impact Unknowns (prioritized)
+- U1. Team composition and size  
+  - Why it matters: Impacts mentorship bandwidth, peer learning, and project collaboration.  
+  - Best source: PI and current students.  
+  - Trigger: Team information not provided.  
+  - Confidence impact: High.
+
+- U2. Hiring status and application process  
+  - Why it matters: Determines feasibility and timing of joining.  
+  - Best source: PI; institutional portal.  
+  - Trigger: No hiring/application details in profile.  
+  - Confidence impact: High.
+
+- U3. Funding scale and duration  
+  - Why it matters: Multi-year PhD security, conference travel, resources.  
+  - Best source: PI; departmental admin.  
+  - Trigger: Only names of funding sources are listed without details.  
+  - Confidence impact: High.
+
+- U4. Departmental home and lab name at TUM  
+  - Why it matters: Coursework, teaching duties, administrative support, communities.  
+  - Best source: PI; department website.  
+  - Trigger: Department and lab name not specified.  
+  - Confidence impact: Medium.
+
+- U5. Mentorship style and meeting cadence  
+  - Why it matters: Fit with your working style and progress pace.  
+  - Best source: PI; current students.  
+  - Trigger: No mentoring signals (e.g., meeting policies) provided.  
+  - Confidence impact: High.
+
+- U6. Student/alumni outcomes  
+  - Why it matters: Placement success and training effectiveness.  
+  - Best source: PI; alumni; departmental records.  
+  - Trigger: No alumni/outcome information provided.  
+  - Confidence impact: High.
+
+- U7. Project ownership and authorship norms  
+  - Why it matters: Career credit, motivation, and collaboration clarity.  
+  - Best source: PI; student handbook if any; current students.  
+  - Trigger: No culture/ownership policies visible.  
+  - Confidence impact: Medium.
+
+- U8. Expected technical stack and training  
+  - Why it matters: Ramp-up time and alignment with your skills.  
+  - Best source: PI; recent paper codebases; current students.  
+  - Trigger: Tools/languages not specified despite data/code emphasis.  
+  - Confidence impact: Medium.
+
+- U9. Industry collaboration expectations and IP/open-source policies  
+  - Why it matters: Publication freedom, conflict of interest, and time allocation.  
+  - Best source: PI; collaboration MOUs; departmental policy.  
+  - Trigger: Industry roles listed but no policies described.  
+  - Confidence impact: Medium.
+
+- U10. Access to compute/data resources  
+  - Why it matters: Feasibility and pace of data-heavy projects.  
+  - Best source: PI; department IT.  
+  - Trigger: No resource details provided.  
+  - Confidence impact: Medium.
+
+- U11. Seminar culture, peer feedback mechanisms  
+  - Why it matters: Iterative improvement and community learning.  
+  - Best source: PI; current students.  
+  - Trigger: No lab process details.  
+  - Confidence impact: Medium.
+
+- U12. Publication strategy and target venues  
+  - Why it matters: Career signaling and timeline planning.  
+  - Best source: PI; recent papers.  
+  - Trigger: Items list URLs but not a consolidated publication plan.  
+  - Confidence impact: Medium.
+
+- U13. Travel and conference support  
+  - Why it matters: Networking, visibility, and feedback.  
+  - Best source: PI; funding admin.  
+  - Trigger: Funding sources listed but no travel/policy details.  
+  - Confidence impact: Medium.
+
+- U14. Role balance between economics theory vs. engineering/data work  
+  - Why it matters: Alignment with your strengths/interests.  
+  - Best source: PI; recent projects.  
+  - Trigger: Portfolio includes theory, empirics, and tooling; proportions unclear.  
+  - Confidence impact: Medium.
+
+- U15. Expectations for teaching/TA duties  
+  - Why it matters: Time management and funding interactions.  
+  - Best source: PI; department.  
+  - Trigger: No departmental details or duty expectations provided.  
+  - Confidence impact: Medium.
+
+### 7.2 Suggested Verification Questions (optional, concise)
+- Questions to ask the PI (mapped to unknowns)
+  - What is the current team size and composition? (U1)  
+  - Are you recruiting PhD students this cycle, and what are the application steps/timelines? (U2)  
+  - What funding is available for a 4–5 year PhD, including stipends, travel, and equipment? (U3, U13)  
+  - Which department and lab at TUM will host the PhD, and what are the associated requirements? (U4, U15)  
+  - How often do you meet with students, and what is your advising style? (U5)  
+  - What is your publication strategy and target venues in economics/blockchain/CS? (U12)  
+  - How do you balance theory, empirics, and tool-building in current projects? (U14)  
+  - What are expectations for open-source contributions vs. proprietary collaborations? (U9)  
+  - What data/computing resources are available for blockchain analytics? (U10)  
+  - How are project ownership and authorship determined? (U7)  
+  - Are there regular seminars, reading groups, or code reviews? (U11)
+
+- Questions to ask current students/alumni (mapped to unknowns)
+  - How responsive is the PI, and what is the typical feedback cadence? (U5)  
+  - How clear are authorship and project ownership norms in practice? (U7)  
+  - Do you have sufficient compute/data access for your projects? (U10)  
+  - How are travel and conference opportunities supported? (U13)  
+  - What is the balance between economics theory and data engineering in your work? (U14)  
+  - How collaborative is the environment; are there group meetings or peer review structures? (U11)  
+  - How predictable and transparent is funding across years? (U3)  
+  - What have recent alumni done after graduating (academia vs. industry)? (U6)  
+  - How easy was it to onboard into the code/data workflows? (U8, D2)  
+  - How are industry collaborations integrated into research timelines and publications? (U9)
+
+--- 
+
+Evidence appendix (concise pointers)
+- Stated interests: “Exploring the intersection of game theory, monetary economics, and blockchain technology.”  
+- Research items: EIP-1559 empirical analysis; Bitcoin cohort analysis; Harvard Dataverse dataset/tools; forward guidance (theory/empirics); explainable AI for crypto valuation; SoK decentralization; blockchain governance; network analysis; macroprudential policy; trading strategy; stablecoins.  
+- Open resources: “Data and Codes” (GitHub), “Harvard Dataverse” dataset/tools.  
+- Funding sources: “ICP grants,” “Ethereum consensus grants,” “Ethereum Foundation.”  
+- Background highlights: Master in Physics and PhD in Economics at ETH Zurich; cross-sector roles (Bank of Finland, Liquity, Dfinity, Origyn, Chainlink); “PhD Mentor” at Technische Universität München (2025–Present).  
+- Missing: Team list, alumni outcomes, application details, freshness indicators, department/lab name.
+
+                    ---
+
+                    # Match Analysis Report
+
+                    ## 0. Match Snapshot (≤12 bullets)
+- Overall fit rating: 3/5 (Confidence: 65%)
+- Top 3 match strengths
+  - Strong quantitative/data engineering skillset that can transfer to blockchain analytics (evidence: Python/Java/JS/SQL; Selenium-based data extraction; interactive analytics platform; INTERACT/CyberC publications).
+  - PI emphasizes empirical, quantitative analysis and open datasets/code, which aligns with student’s coding and reproducibility orientation (evidence: EIP-1559 empirical study; Bitcoin cohort dataset on Harvard Dataverse; open-source repository for decentralization).
+  - PI’s AI & Finance and network analysis topics can bridge to the student’s LLM/RAG agents and data visualization expertise (evidence: “Cryptocurrency Valuation” with explainable AI; “Blockchain Network Analysis”).
+- Top 3 gaps/risks
+  - Limited formal economics/monetary theory background compared to PI’s macro/monetary policy focus (evidence: student’s degrees are UX/HCI and digital media tech; PI has works on forward guidance and macroprudential policy).
+  - No explicit hiring/application protocol or team info; recruiting status is unclear (evidence: recruitment signals are not provided; team member list absent).
+  - Domain specificity: student has no direct blockchain-economics publications yet (evidence: student’s publications are HCI/IoT/visualization; PI’s portfolio is mostly blockchain economics/governance).
+- 2 “fast verification” items
+  - Ask whether PhD positions or RA roles are currently open and what application materials are expected (evidence need: recruitment_signals missing).
+  - Confirm departmental home and funding coverage within TUM (evidence need: department/lab name and funding scale not specified; funding sources named but not detailed).
+
+## 1. Data Quality & Constraints
+1.1 Student data completeness (missing fields and impact)
+- Missing: explicit career goals, current location, mentorship preferences, and any direct blockchain-economics coursework. Impact: reduces certainty about pipeline alignment and mentorship fit; requires explicit articulation in outreach.
+- Present: full name/contact, degrees and timing, detailed projects/technologies, three publications, language proficiency, awards.
+
+1.2 Professor data completeness + freshness (use stability_signals.freshness_indicators)
+- Missing: department and lab name at TUM, team composition, alumni outcomes, hiring status, application process, required materials, target audience, latest news/publication dates, last site update. Freshness indicators are unspecified.
+- Present: research interests, numerous research items with descriptions and URLs, funding sources lists, broad background roles.
+
+1.3 Hard constraints detected (e.g., location, degree timing, required materials, deadlines) with evidence paths
+- No explicit hard constraints or deadlines given by the PI profile (evidence: recruitment_signals are blank).
+- Student’s MA runs until Feb 2025; timing may affect immediate availability (evidence: education timeline), but not a strict constraint unless PI requires earlier start—unknown.
+
+## 2. Multi-Dimensional Fit Analysis (score each 0–5)
+
+### 2.1 Topic & Problem Alignment
+- Score: 2/5
+- Evidence: PI works on blockchain economics/governance, monetary policy, network analysis, and AI & finance (e.g., EIP-1559, Bitcoin cohort analysis, governance economics, explainable AI valuation). Student’s portfolio is HCI/data viz/agents with coding and analytics, but no direct econ/crypto research publications.
+- Inference (Confidence: 65%; Rationale: Student’s data analytics and AI agents can map to PI’s data-centric blockchain topics, but the macro/monetary theory focus is a gap; Evidence paths: PI research items; student projects/publications).
+- Risks/Unknowns: Student’s interest in economics-specific problems is unspoken; the ability to quickly acquire domain economics and blockchain governance knowledge is unknown.
+- Recommended actions: Emphasize interest in blockchain analytics and AI & finance; propose a concrete small-scale replication/extension using the Harvard Dataverse Bitcoin dataset to demonstrate topical alignment.
+
+### 2.2 Methods/Research Style Alignment
+- Score: 3/5
+- Evidence: PI’s style is empirical/theoretical with quantitative modeling and network analysis; open data/code. Student has implemented data scraping/processing (Selenium/Python), built interactive analytics platforms (Tableau/AmCharts), RAG pipelines, and has conducted user studies with quantitative analysis.
+- Inference (Confidence: 70%; Rationale: Student’s quantitative coding and analysis experience aligns with empirical/open-data workflows; econometrics/game-theoretic modeling exposure is limited; Evidence paths: EIP-1559 empirical work, Bitcoin cohort analysis, open GitHub/dataverse; student’s data projects and publications).
+- Risks/Unknowns: Student’s familiarity with econometrics, causal inference, and macro modeling is unclear.
+- Recommended actions: Highlight reproducibility skills; commit to ramping up on econometrics/network science for blockchain; reference intent to study PI’s specific methods from listed works.
+
+### 2.3 Skills Readiness & Research Maturity
+- Score: 3/5
+- Evidence: Student shows robust coding (Python/Java/JS/SQL), systems prototypes (TCP protocol, IoT UI framework), data visualization platform validated via user study, and peer-reviewed publications (INTERACT, CyberC, Chinese CHI). PI needs quantitative analysis of blockchain data, theoretical framing, and reproducible code.
+- Inference (Confidence: 60%; Rationale: Engineering/data skills and publication experience demonstrate maturity, but domain-specific economics skills are not yet evident; Evidence paths: student skills/projects/publications; PI’s empirical/theory topics).
+- Risks/Unknowns: Depth in statistical modeling, econometrics, and game theory is unknown.
+- Recommended actions: Prepare a brief methods portfolio (code samples + write-ups) and a short reading list/plan (EIP-1559, Bitcoin cohort analysis, governance paper) to signal readiness to close domain gaps.
+
+### 2.4 Mentorship Style Compatibility (hands-on ↔ hands-off)
+- Score: 3/5
+- Evidence: PI provides open datasets/tools and diverse topics; no explicit advising cadence or team policies visible. Student has led multiple projects and workshops, suggesting comfort with autonomy.
+- Inference (Confidence: 35%; Rationale: Open resources and breadth suggest autonomy may be valued, but lack of team/cadence info means style is uncertain; Evidence paths: PI open-source/dataverse; student-led projects/workshops).
+- Risks/Unknowns: PI’s meeting frequency, feedback style, and project-scoping norms are not stated.
+- Recommended actions: In outreach, ask directly about advising cadence and expectations; share how you prefer structured checkpoints and independent execution.
+
+### 2.5 Project Breadth Preference Compatibility
+- Score: 4/5
+- Evidence: PI spans blockchain economics, governance, AI & finance, monetary policy, and network analysis; student portfolio covers varied HCI/data/agents/IoT projects and publications across different domains.
+- Inference (Confidence: 70%; Rationale: Both show breadth within a unifying interest in data-driven, applied work; student can adapt across subtopics; Evidence paths: PI research items; student project list).
+- Risks/Unknowns: Risk of fragmentation without coordinated goals.
+- Recommended actions: Propose a focused, staged plan (one anchor project with clear milestones, optional side contributions to open datasets/code).
+
+### 2.6 Recruitment & Funding Feasibility
+- Score: 2/5
+- Evidence: No hiring/application details provided; funding sources listed (ICP grants, Ethereum consensus grants, Ethereum Foundation) but amounts and student coverage unknown.
+- Inference (Confidence: 40%; Rationale: Presence of ecosystem grants suggests potential support, yet recruiting status and departmental home are unclear; Evidence paths: stability_signals funding sources; recruitment_signals absent).
+- Risks/Unknowns: Position availability, application requirements, start dates, stipend/travel support unknown.
+- Recommended actions: Ask explicitly about openings, department affiliation, and funding coverage; offer a short, low-commitment starter project to demonstrate fit.
+
+### 2.7 Lab Culture & Working Norms Fit (cautious)
+- Score: 3/5
+- Evidence: Open datasets and code repositories indicate reproducibility and sharing; no team/alumni/culture policies visible. Student has experience conducting user research and collaborative projects, suggesting adaptability.
+- Inference (Confidence: 45%; Rationale: Open-science signals imply collaborative tooling, but broader norms are unknown; Evidence paths: PI dataverse/GitHub; student workshops/team projects).
+- Risks/Unknowns: Authorship norms, seminars/code reviews, compute resources, and collaboration cadence unknown.
+- Recommended actions: Request clarity on documentation standards, authorship, resources, and group activities; volunteer to contribute documentation or dashboards as an initial value-add.
+
+### 2.8 Career Pipeline Alignment
+- Score: 2/5
+- Evidence: PI has industry/policy linkages (e.g., roles with blockchain organizations and policy entities). Student has done industrial collaborations during MA; career goals not specified.
+- Inference (Confidence: 30%; Rationale: Potential industry-facing pipeline exists, but alumni outcomes and student’s target path are unknown; Evidence paths: PI background roles; student notes on industrial partner projects).
+- Risks/Unknowns: Placement record and student’s intended path (academia vs industry) are not stated.
+- Recommended actions: State your preferred trajectory and ask about typical outcomes and opportunities.
+
+### 2.9 Communication & Responsiveness Risk (cautious)
+- Score: 2/5
+- Evidence: No freshness indicators (latest news/publication/last-updated footer) and no hiring protocol; background shows recent roles (2024–2025).
+- Inference (Confidence: 35%; Rationale: Lack of recency signals raises uncertainty about responsiveness; Evidence paths: stability_signals.freshness_indicators missing; PI background dates).
+- Risks/Unknowns: Email response cadence, meeting schedules, and administrative clarity unknown.
+- Recommended actions: Use a concise email with a concrete mini-project ask; follow up once after 7–10 days; offer alternate contact channels.
+
+## 3. Gap-to-Plan (Actionable)
+3.1 Top 5 gaps to close (ranked) with evidence
+- Domain economics knowledge (monetary policy, game theory for governance) (evidence: PI’s forward guidance/macroprudential/governance papers; student background lacks econ coursework).
+- Econometrics/causal inference and quantitative finance methods (evidence: PI’s empirical studies and valuation work; student’s analysis is more engineering/HCI).
+- Blockchain-specific analytics familiarity (evidence: PI’s Bitcoin cohort analysis dataset and EIP-1559 study; student has no blockchain publications yet).
+- Departmental/process clarity (evidence: recruitment signals and lab name absent).
+- Articulation of career goals aligned with PI’s pipelines (evidence: alumni outcomes unknown; student goals not stated).
+
+3.2 How to position the student’s background to this PI (3–6 bullets)
+- Emphasize reproducible data engineering: end-to-end scraping, preprocessing, analytics, and visualization workflows validated in user studies.
+- Highlight peer-reviewed outputs (INTERACT 2023; CyberC 2022) as proof of research execution and writing.
+- Bridge to PI’s agenda via AI & finance: offer to prototype explainable modeling or analytics dashboards for crypto markets/governance.
+- Propose immediate contributions to open datasets/tools (e.g., cleaning, feature engineering, cohort analysis extensions on Bitcoin data).
+- Commit to upskilling in econometrics/network science with a reading/replication plan drawing from PI’s listed works.
+
+3.3 Best “2 paper anchors” and why
+- Deciphering Bitcoin Blockchain Data: Direct pathway to apply student’s data scraping/feature engineering and analytics to blockchain transactions; aligns with open datasets and reproducibility.
+- Cryptocurrency Valuation (explainable AI): Student’s LLM/RAG and model tuning experience can translate into explainable modeling pipelines for crypto valuation, addressing PI’s AI & finance theme.
+
+## 4. Outreach & Email Strategy (Tailored)
+4.1 PI-specific outreach preferences
+- No explicit preference found (no application protocol or required materials provided).
+
+4.2 Best practices for this case (concise, specific, clear ask)
+- Reference 1–2 specific PI works and propose a small, concrete starter task (e.g., replicate a cohort analysis result or design an explainable valuation prototype).
+- Ask about openings, departmental home at TUM, and funding coverage; offer a 15–20 minute call.
+- Keep message concise; attach CV and a one-page portfolio or code sample; include your website (www.innoqiu.cn).
+
+4.3 What to mention (must include: mutual interests + 1–2 concrete PI items + 1–2 concrete student proofs)
+- Mutual interest: blockchain analytics/AI & finance; open data/code.
+- PI items: “Deciphering Bitcoin Blockchain Data”; “Cryptocurrency Valuation” (and optionally “Empirical Analysis of EIP-1559”).
+- Student proofs: INTERACT 2023 visualization paper; D-IFSC data platform with significant usability improvements; Python/Selenium pipelines; LLM agent development (LoRA, RAG).
+
+4.4 What to avoid
+- Generic praise; overly broad claims about economics expertise; long autobiographical narrative; large attachments; demanding supervision or guarantees.
+
+4.5 Attachments checklist
+- CV (2 pages max), transcripts (BEng and current MA), one-page research/sample (code + brief write-up), concise portfolio link (www.innoqiu.cn). If requested later: short research plan aligned to PI’s items.
+
+## 5. Email Kit (Ready to Use)
+5.1 Subject lines (6 options)
+- Exploring blockchain analytics with your Bitcoin cohort work
+- Potential PhD/RA fit: explainable crypto valuation + reproducible data pipelines
+- Inquiry: openings in blockchain economics/governance at TUM
+- From data viz/agents to blockchain empirics—mini-project proposal
+- Interested in EIP-1559/Bitcoin analyses—can I contribute?
+- Aligning AI & finance methods with your lab’s open datasets
+
+5.2 Email template — Short (≤140 words)
+Dear Dr. Liu,
+
+I’m Fangze Qiu (MA UXD, UAL; BEng Digital Media Tech), with strong Python/Java/JS and reproducible analytics (INTERACT 2023; a 1,683-athlete data platform validated via user study). Your works on “Deciphering Bitcoin Blockchain Data” and “Cryptocurrency Valuation” align with my strengths in data pipelines, visualization, and explainable ML.
+
+I’d love to contribute a small starter project (e.g., replicate/extend a Bitcoin cohort analysis or prototype an explainable valuation pipeline) to demonstrate fit. Are you currently recruiting PhD/RA positions at TUM, and which department hosts them?
+
+I can share a brief methods sample and CV. Would you be available for a 15–20 minute chat?
+
+Best regards,
+Fangze Qiu
+www.innoqiu.cn
+Fangze.Qiu@outlook.com
+
+5.3 Email template — Standard (≤220 words)
+Dear Dr. Liu,
+
+I’m Fangze Qiu, currently finishing an MA in User Experience Design (UAL) and holding a BEng in Digital Media Technology. My background spans end-to-end data pipelines (Python/Selenium/SQL), interactive analytics/visualization (Tableau/AmCharts), and LLM agent development (LoRA, RAG). I’ve published at INTERACT 2023 (visualization) and CyberC 2022 (distributed UI), and validated user-facing platforms via controlled studies.
+
+Your empirical and open-data work—especially “Deciphering Bitcoin Blockchain Data” and “Cryptocurrency Valuation”—matches my interests in blockchain analytics and explainable models. I propose a focused starter contribution: replicate/extend a cohort analysis using your dataset, or build a small explainable valuation prototype, with documentation and reproducible code.
+
+May I ask:
+- Are you recruiting PhD/RA positions this cycle, and which department at TUM is the host?
+- What materials/steps do you prefer, and is funding available for multi-year support?
+
+I’ve attached a concise CV and can share a one-page methods sample. If helpful, I’d appreciate a 15–20 minute call to discuss fit and next steps.
+
+Thank you for your time,
+Fangze Qiu
+www.innoqiu.cn
+Fangze.Qiu@outlook.com
+
+5.4 Follow-up template (≤80 words; sent after 7–10 days if no reply)
+Dear Dr. Liu,
+
+Following up on my note regarding contributions to your Bitcoin cohort/crypto valuation projects. I can share a brief reproducible demo within a week. If you’re open to a short call, I’d appreciate guidance on openings, department, and materials.
+
+Thank you,
+Fangze Qiu
+www.innoqiu.cn
+Fangze.Qiu@outlook.com
+                    

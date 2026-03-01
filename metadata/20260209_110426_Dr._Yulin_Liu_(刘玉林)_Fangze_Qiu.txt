@@ -1,0 +1,228 @@
+{
+  "meta": {
+    "generated": "2026-02-09T00:00:00Z",
+    "professor": "Dr. Liu",
+    "student": "Fangze Qiu",
+    "overallScore": 2.75
+  },
+  "professorProfile": {
+    "name": "Dr. Liu",
+    "title": "PhD Mentor",
+    "lab": "Unknown",
+    "institution": "Technische Universität München",
+    "imageInitials": "DL",
+    "focusAreas": [
+      "Blockchain Economics and Governance",
+      "Monetary Policy and Macroeconomics",
+      "Data Analytics and Network Analysis",
+      "AI & Finance",
+      "Stablecoins",
+      "Open Data and Reproducible Research"
+    ],
+    "keyVenues": [
+      "Harvard Dataverse"
+    ],
+    "mentorshipStyle": "Moderate autonomy with reproducible, open-data workflows; advising cadence and policies not stated publicly (inference only).",
+    "currentStatus": "Active across academia/industry/policy; PhD Mentor at TUM (2025–Present). Hiring status and application process are unclear; freshness indicators not provided.",
+    "keyReads": [
+      {
+        "title": "Deciphering Bitcoin Blockchain Data",
+        "year": "Unknown",
+        "citation": "Open cohort analysis of Bitcoin blockchain data; dataset/tools available via Harvard Dataverse.",
+        "type": "Must Read"
+      },
+      {
+        "title": "Cryptocurrency Valuation (Explainable AI)",
+        "year": "Unknown",
+        "citation": "Explainable AI techniques for cryptocurrency pricing and valuation.",
+        "type": "Must Read"
+      },
+      {
+        "title": "Empirical Analysis of EIP-1559",
+        "year": "Unknown",
+        "citation": "Comprehensive empirical study on Ethereum’s EIP-1559 impact on fees, waiting times, and network security.",
+        "type": "Co-Authored"
+      },
+      {
+        "title": "Versatile Forward Guidance",
+        "year": "Unknown",
+        "citation": "Theoretical and empirical investigation into forward guidance in monetary policy.",
+        "type": "Co-Authored"
+      },
+      {
+        "title": "SoK: Blockchain Decentralization",
+        "year": "Unknown",
+        "citation": "Systematization of knowledge on blockchain decentralization mechanisms.",
+        "type": "Co-Authored"
+      },
+      {
+        "title": "The Economics of Blockchain Governance",
+        "year": "Unknown",
+        "citation": "Economic design and analysis of blockchain governance models.",
+        "type": "Co-Authored"
+      },
+      {
+        "title": "Harvard Dataverse Bitcoin Dataset & Tools",
+        "year": "Unknown",
+        "citation": "Curated dataset and tooling for blockchain research; supports reproducible workflows.",
+        "type": "System"
+      }
+    ]
+  },
+  "executiveSnapshot": {
+    "title": "Executive Snapshot",
+    "content": [
+      {
+        "text": "Interdisciplinary focus at the intersection of game theory, monetary economics, and blockchain technology.",
+        "type": "positive"
+      },
+      {
+        "text": "Strong quantitative and empirical orientation with open data/code practices (Harvard Dataverse, open-source repositories).",
+        "type": "positive"
+      },
+      {
+        "text": "Breadth spanning blockchain economics, monetary policy, AI & finance, governance, and network analysis.",
+        "type": "positive"
+      },
+      {
+        "text": "Industry and policy linkages (Liquity, Dfinity, Origyn, Chainlink; Bank of Finland) enable applied projects.",
+        "type": "positive"
+      },
+      {
+        "text": "Funding sources listed across blockchain ecosystems (ICP grants, Ethereum consensus grants, Ethereum Foundation).",
+        "type": "positive"
+      },
+      {
+        "text": "Team size and composition are not disclosed.",
+        "type": "negative"
+      },
+      {
+        "text": "Hiring status and application process are not stated.",
+        "type": "negative"
+      },
+      {
+        "text": "Freshness signals (latest news/publication dates, last-updated footer) are missing.",
+        "type": "warning"
+      },
+      {
+        "text": "Department and lab name at TUM are unspecified.",
+        "type": "warning"
+      },
+      {
+        "text": "Alumni outcomes and mentoring track record are not visible.",
+        "type": "warning"
+      }
+    ]
+  },
+  "fitDimensions": [
+    {
+      "category": "Topic Alignment",
+      "score": 2,
+      "description": "Student’s HCI/data viz/agents background can map to blockchain analytics and AI & finance, but lacks direct economics/crypto publications."
+    },
+    {
+      "category": "Methods",
+      "score": 3,
+      "description": "Empirical, quantitative, open-data focus aligns with student’s coding and reproducibility; econometrics/game-theoretic modeling exposure is limited."
+    },
+    {
+      "category": "Skills Readiness",
+      "score": 3,
+      "description": "Strong engineering/data skills and publication experience; domain-specific economics skills are not yet evident."
+    },
+    {
+      "category": "Mentorship",
+      "score": 3,
+      "description": "Likely moderate autonomy due to open datasets/tools; advising cadence unknown but student has led projects and can work independently."
+    },
+    {
+      "category": "Breadth",
+      "score": 4,
+      "description": "Both PI and student show breadth with data-driven applied work; risk of fragmentation without coordinated goals."
+    },
+    {
+      "category": "Recruitment",
+      "score": 2,
+      "description": "No hiring/application details; funding sources listed without amounts or coverage; departmental home unclear."
+    },
+    {
+      "category": "Lab Culture",
+      "score": 3,
+      "description": "Open-science and reproducibility signals present; broader norms (authorship, seminars, compute resources) are unknown."
+    },
+    {
+      "category": "Pipeline",
+      "score": 2,
+      "description": "Industry/policy connections exist, but alumni outcomes and student’s target path are unspecified."
+    }
+  ],
+  "fitMatrix": {
+    "thrive": [
+      "Quantitative economics or data-science candidates who enjoy empirical blockchain research and reproducible workflows.",
+      "Applicants interested in AI/ML applications to finance/crypto, especially explainability.",
+      "Researchers keen on governance/decentralization economics and network analysis.",
+      "Practically minded candidates interested in industry-relevant crypto-economic problems."
+    ],
+    "struggle": [
+      "Students needing tightly defined, narrow topics with frequent, prescriptive guidance.",
+      "Candidates averse to cross-disciplinary learning across economics, data science, and blockchain.",
+      "Students seeking wet-lab or non-quantitative qualitative-only projects.",
+      "Applicants requiring clear public hiring protocols and structured application materials."
+    ]
+  },
+  "flags": {
+    "green": [
+      "Strong quantitative and methodological grounding (empirical/theoretical works in EIP-1559, forward guidance, network analysis).",
+      "Open-source and open-data practices (GitHub codebase and Harvard Dataverse dataset/tools).",
+      "Cross-sector exposure (academia, policy, industry) indicating applied impact and diverse networks."
+    ],
+    "yellow": [
+      "Breadth across many domains may cause project fragmentation without strong coordination.",
+      "Funding sources listed without details, making scale and duration unclear.",
+      "Department/lab name unspecified, which may complicate administrative processes."
+    ],
+    "red": [
+      "No visible team or alumni data, so mentoring capacity and outcomes cannot be evaluated.",
+      "No hiring/application details, creating uncertainty in recruiting and entry timing.",
+      "No freshness indicators, raising uncertainty about recency and site maintenance."
+    ]
+  },
+  "actionPlan": {
+    "gaps": [
+      "Domain economics knowledge (monetary policy, game theory for governance).",
+      "Econometrics/causal inference and quantitative finance methods.",
+      "Blockchain-specific analytics familiarity.",
+      "Departmental/process clarity (host unit, application protocol).",
+      "Articulation of career goals aligned with PI’s pipelines."
+    ],
+    "verification": [
+      "Ask about current team size and composition.",
+      "Confirm whether PhD or RA positions are open and the application steps/timelines.",
+      "Clarify departmental home and lab name at TUM.",
+      "Discuss funding availability and coverage for multi-year PhD (stipend, travel, equipment).",
+      "Request advising cadence details and mentoring style.",
+      "Review and align with publication strategy and target venues.",
+      "Confirm expectations for open-source contributions vs. proprietary collaborations.",
+      "Verify data/computing resources for blockchain analytics.",
+      "Clarify project ownership and authorship norms.",
+      "Ask about seminars, reading groups, or code reviews for peer feedback."
+    ]
+  },
+  "emailKit": [
+    {
+      "label": "Short & Direct (Recommended)",
+      "subject": "Exploring blockchain analytics with your Bitcoin cohort work",
+      "body": "Dear Dr. Liu,\n\nI’m Fangze Qiu (MA UXD, UAL; BEng Digital Media Tech), with strong Python/Java/JS and reproducible analytics (INTERACT 2023; a 1,683-athlete data platform validated via user study). Your works on “Deciphering Bitcoin Blockchain Data” and “Cryptocurrency Valuation” align with my strengths in data pipelines, visualization, and explainable ML.\n\nI’d love to contribute a small starter project (e.g., replicate/extend a Bitcoin cohort analysis or prototype an explainable valuation pipeline) to demonstrate fit. Are you currently recruiting PhD/RA positions at TUM, and which department hosts them?\n\nI can share a brief methods sample and CV. Would you be available for a 15–20 minute chat?\n\nBest regards,\nFangze Qiu\nwww.innoqiu.cn\nFangze.Qiu@outlook.com"
+    },
+    {
+      "label": "Standard",
+      "subject": "Inquiry: openings in blockchain economics/governance at TUM",
+      "body": "Dear Dr. Liu,\n\nI’m Fangze Qiu, currently finishing an MA in User Experience Design (UAL) and holding a BEng in Digital Media Technology. My background spans end-to-end data pipelines (Python/Selenium/SQL), interactive analytics/visualization (Tableau/AmCharts), and LLM agent development (LoRA, RAG). I’ve published at INTERACT 2023 (visualization) and CyberC 2022 (distributed UI), and validated user-facing platforms via controlled studies.\n\nYour empirical and open-data work—especially “Deciphering Bitcoin Blockchain Data” and “Cryptocurrency Valuation”—matches my interests in blockchain analytics and explainable models. I propose a focused starter contribution: replicate/extend a cohort analysis using your dataset, or build a small explainable valuation prototype, with documentation and reproducible code.\n\nMay I ask:\n- Are you recruiting PhD/RA positions this cycle, and which department at TUM is the host?\n- What materials/steps do you prefer, and is funding available for multi-year support?\n\nI’ve attached a concise CV and can share a one-page methods sample. If helpful, I’d appreciate a 15–20 minute call to discuss fit and next steps.\n\nThank you for your time,\nFangze Qiu\nwww.innoqiu.cn\nFangze.Qiu@outlook.com"
+    },
+    {
+      "label": "Follow-up",
+      "subject": "Following up: Bitcoin cohort/valuation mini-project contribution",
+      "body": "Dear Dr. Liu,\n\nFollowing up on my note regarding contributions to your Bitcoin cohort/crypto valuation projects. I can share a brief reproducible demo within a week. If you’re open to a short call, I’d appreciate guidance on openings, department, and materials.\n\nThank you,\nFangze Qiu\nwww.innoqiu.cn\nFangze.Qiu@outlook.com"
+    }
+  ]
+}

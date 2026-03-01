@@ -1,0 +1,154 @@
+You will be given two inputs:
+
+1. professor_infor JSON (the PI/lab profile to analyze):
+{professor_profile}
+
+Task:
+Write a comprehensive, evidence-grounded mentor/lab analysis report for prospective PhD students using ONLY the provided `professor_infor` JSON. Follow the exact structure and headings below. Where the student context exists, include a short “fit” interpretation in the relevant sections and in the fit matrix.
+
+Evidence rule:
+NON-NEGOTIABLE RULES:
+1. NO RAW JSON PATHS IN MARKDOWN: Never output text like `research_signals.interests -> "XR"`. Instead, write: "The lab's stated research interests include XR."
+2. EVIDENCE-BASED: You must still base every claim on the data. If you claim the PI is active, it must be because the data shows 2024-2025 dates, but describe it naturally ("Recent 2025 publications indicate...").
+3. TONE: Professional, objective, empathetic, and structured. Use formatting (bolding, makrdown, blockquotes) to make it scannable. Never output things include pronun like "I found the following..."
+4. UNKNOWNS: If data is missing, clearly state "Information not available in profile" rather than "null".
+
+Output:
+Return a single Markdown report with the following exact section headers and order:
+
+## 0. Executive Snapshot (≤10 bullets)
+- 3–5 strongest positives (with evidence pointers)
+- 3–5 main risks/unknowns (with evidence pointers)
+
+## 1. Data Quality & Freshness
+1.1 Coverage assessment (what fields are present/missing, and impact)
+1.2 Freshness assessment (use `stability_signals.freshness_indicators`)
+1.3 Confidence disclaimer (where conclusions are weak)
+
+## 2. A. Research & Mentorship
+### 2.1 Research Areas & Trajectory
+- Primary themes (ranked)
+- Secondary themes / adjacent domains
+- Evidence: cite JSON paths + short quotes/paraphrases
+
+### 2.2 Research Style Classification (multi-label)
+Classify with scores (0–5) and justification:
+- Qualitative / Human-centered
+- Quantitative / Statistical / Modeling
+- Systems / “Hardcore coding” / Tool-building
+- Experimental / Wet lab / Bench science
+- Theory / Methods
+- Translational / Applied (industry/clinical)
+For each label:
+- Evidence (JSON paths)
+- Interpretation
+- Confidence (0–100)
+
+### 2.3 Mentorship Style (hands-on ↔ hands-off)
+Infer likely advising style using signals present (e.g., project breadth, team size, protocol explicitness, publication/collaboration patterns if visible).
+Output:
+- Spectrum position (1–7) where 1=very hands-on, 7=very hands-off
+- Stage-variation hypothesis (early vs late PhD), only if supported
+- Evidence vs inference clearly separated
+- Confidence (0–100)
+
+### 2.4 Project Breadth vs Focus
+- Estimate breadth using `research_signals.research_items`, `application_or_problem_domains`, `venues_found`
+- Determine whether PI appears “portfolio-style” (many directions) vs “deep-focus”
+- Implications for student experience (topic freedom, switching cost, fragmentation risk)
+- Confidence + evidence
+
+### 2.5 Mentorship Track Record Proxies
+Use only available signals:
+- `team_raw.member_list` roles + start years + involvement counts
+- `stability_signals.alumni_list` outcomes
+- `team_raw.sub_mentoring_signals`
+Discuss what can/cannot be concluded.
+
+## 3. B. Recruitment & Funding Situation
+### 3.1 Hiring Likelihood
+Use `recruitment_signals.hiring_status_raw`, `application_protocol`, `required_materials`, and freshness indicators.
+Classify:
+- Actively recruiting / Possibly recruiting / Unclear / Not recruiting
+Include confidence and missing-data notes.
+
+### 3.2 Funding Health (inference-only unless explicit)
+Use `stability_signals.funding_sources` + activity signals (recent pubs/news).
+Output:
+- Funding strength estimate (Weak/Moderate/Strong/Unknown)
+- Evidence
+- Confidence
+Do not name grants not in data.
+
+### 3.3 Preferred Student Profile (skills & traits)
+Infer from:
+- Required materials (signals of expectations)
+- Research style classification (skills needed)
+- Team composition and alumni roles (if provided)
+Output:
+- Must-have skills
+- Nice-to-have skills
+- Signals of independence expected
+- Best-fit applicant archetypes (2–4)
+
+### 3.4 “Worked-with-before” Pattern
+From alumni/current members:
+- Common destinations/roles
+- Apparent training orientation (academia/industry)
+If absent, state Unknown.
+
+## 4. C. Lab Culture & Working Norms (inferred carefully)
+Using `team_raw`, `sub_mentoring_signals`, alumni outcomes, and communication/protocol signals:
+- Collaboration vs individual ownership
+- Feedback cadence hypothesis (only if supported)
+- Stability/turnover risks (use alumni + `ghosting_signals_from_news` if present)
+Provide:
+- Culture hypotheses (not facts)
+- Evidence + confidence
+Include a warning about “silent data” (culture often not visible).
+
+## 5. D. Additional Categories
+Include at least 3 of the following (choose the most supported by data):
+- D1. Student Outcomes & Career Pipeline
+- D2. Lab Operational Maturity (process, onboarding, documentation, protocols)
+- D3. Collaboration Network & Interdisciplinarity (venues/domains/URLs)
+- D4. Responsiveness / Communication Risk (freshness + ghosting signals; be cautious)
+- D5. Research Ethics / Safety / Data governance (only if mentioned; otherwise Unknown)
+Each must be evidence-grounded with confidence.
+
+## 6. Fit Assessment & Decision Aids
+### 6.1 Fit Matrix (student type × lab type)
+Create a 2-column table:
+- “Will likely thrive” (3–6 student profiles)
+- “May struggle” (3–6 student profiles)
+Each entry must cite the specific signals that drove it (paths + inference confidence).
+
+### 6.2 Red Flags / Yellow Flags / Green Flags
+- 3–8 items each, prioritized
+- Each item: evidence → interpretation → confidence
+
+### 6.3 Verification Checklist (what to confirm externally)
+Provide a checklist the applicant should verify via:
+- student interviews
+- reading 3–5 recent papers (from the given items/URLs)
+- funding verification (only as a suggestion; do not add external facts)
+- lab website/news recency checks (based on freshness indicators)
+
+## 7. Revalidation Aids (for the applicant to verify offline)
+This section is NOT for an ongoing chat loop. It is a human-facing due-diligence add-on that highlights what the model cannot know from the provided data and how to validate it.
+
+### 7.1 Highest-Impact Unknowns (prioritized)
+List 8–15 items. For each:
+- Unknown / Ambiguity
+- Why it matters for PhD success
+- Best evidence source (PI / current students / alumni / lab handbook / papers)
+- What in the JSON triggered the uncertainty (paths)
+- Confidence impact (how much this unknown weakens your earlier conclusions)
+
+### 7.2 Suggested Verification Questions (optional, concise)
+Provide two mini-lists (keep each question 1 line):
+- Questions to ask the PI (8–12)
+- Questions to ask current students/alumni (8–12)
+Each question must map to a specific unknown in 7.1 (reference the unknown ID or short label).
+
+Return only the report.

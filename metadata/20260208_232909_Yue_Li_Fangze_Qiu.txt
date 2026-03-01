@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "generated": "2026-02-08T00:00:00",
+    "professor": "Yue Li",
+    "student": "Fangze Qiu",
+    "overallScore": 3.5
+  },
+  "professorProfile": {
+    "name": "Yue Li",
+    "title": "Unknown",
+    "lab": "HER Lab",
+    "institution": "Xi'an Jiaotong-Liverpool University (XJTLU)",
+    "imageInitials": "YL",
+    "focusAreas": [
+      "Human–Computer Interaction (HCI)",
+      "Extended Reality (XR: VR/AR)",
+      "Virtual museums and cultural heritage",
+      "Education technologies in XR",
+      "VR interaction techniques and performance modeling",
+      "Cross-reality collaboration and hybrid environments",
+      "Tangible and multimodal interfaces",
+      "Visualization and design spaces"
+    ],
+    "keyVenues": [
+      "CHI",
+      "ISMAR",
+      "IEEE VR",
+      "TVCG",
+      "TOCHI",
+      "IJHCI",
+      "JOCCH",
+      "PRESENCE",
+      "SIGGRAPH Asia",
+      "IEEE VRW",
+      "Sensors",
+      "ACS AMI"
+    ],
+    "mentorshipStyle": "Leans hands-on (3/7 on hands-on↔hands-off spectrum); project-oriented build–evaluate cycles; active with UG/Master projects and competitions; invites direct email for projects/collaboration.",
+    "currentStatus": "Active research with multiple 2025 publications; recruiting/collaboration via email (yue.li@xjtlu.edu.cn); PhD hiring specifics not stated; team/alumni details not available.",
+    "keyReads": [
+      {
+        "title": "The Effects of LLM-Empowered Chatbots and Avatar Guides on the Engagement, Experience, and Learning in Virtual Museums",
+        "year": "2025",
+        "citation": "International Journal of Human–Computer Interaction, 2025",
+        "type": "Must Read"
+      },
+      {
+        "title": "ResponsiveView: Enhancing 3D Artifact Viewing Experience in VR Museums",
+        "year": "2025",
+        "citation": "IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025",
+        "type": "System"
+      },
+      {
+        "title": "MagicMap: Enhancing Indoor Navigation Experience in VR Museums",
+        "year": "2024",
+        "citation": "IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR), 2024",
+        "type": "System"
+      }
+    ]
+  },
+  "executiveSnapshot": {
+    "title": "Executive Snapshot",
+    "content": [
+      {
+        "text": "Active and prolific in XR/HCI with multiple 2025 publications (e.g., IEEE TVCG, IJHCI, Virtual Reality).",
+        "type": "positive"
+      },
+      {
+        "text": "Clear thematic focus on cultural heritage and education within XR, providing domain coherence.",
+        "type": "positive"
+      },
+      {
+        "text": "Broad venue footprint (CHI, ISMAR, VR, TVCG, TOCHI) indicating engagement with top HCI/XR communities.",
+        "type": "positive"
+      },
+      {
+        "text": "Open to student projects and collaborations via email, suggesting accessibility.",
+        "type": "positive"
+      },
+      {
+        "text": "Diverse funding sources listed (NSFC, XJTLU funds, municipal programs), indicating potential resourcing.",
+        "type": "positive"
+      },
+      {
+        "text": "No team roster or alumni outcomes published; mentorship outcomes and lab size are unclear.",
+        "type": "negative"
+      },
+      {
+        "text": "Hiring specifics for PhD students are not stated; only general email invitation is provided.",
+        "type": "warning"
+      },
+      {
+        "text": "Lab culture, feedback cadence, and authorship norms are not described on the profile.",
+        "type": "warning"
+      },
+      {
+        "text": "Website/news freshness unclear despite recent publications; no latest news or last-updated signals.",
+        "type": "warning"
+      },
+      {
+        "text": "Funding sources listed without dates or active status; current grant situation uncertain.",
+        "type": "warning"
+      }
+    ]
+  },
+  "fitDimensions": [
+    {
+      "category": "Topic Alignment",
+      "score": 5,
+      "description": "Excellent overlap in XR/HCI for virtual museums and education, plus direct bridge via LLM-enabled museum guides."
+    },
+    {
+      "category": "Methods",
+      "score": 4,
+      "description": "Strong alignment with mixed human-centered evaluations and quantitative modeling; student may deepen XR performance modeling."
+    },
+    {
+      "category": "Skills Readiness",
+      "score": 4,
+      "description": "Student shows systems prototyping (Unity, LLM agents) and mixed-methods research with peer-reviewed outputs."
+    },
+    {
+      "category": "Mentorship",
+      "score": 4,
+      "description": "PI leans hands-on and project-oriented; previous co-authorship suggests compatibility."
+    },
+    {
+      "category": "Breadth",
+      "score": 4,
+      "description": "Both PI and student exhibit breadth anchored in XR; fit favors portfolio-style projects with a coherent theme."
+    },
+    {
+      "category": "Recruitment",
+      "score": 2,
+      "description": "Collaboration welcome via email, but formal PhD/RA openings and requirements are unspecified."
+    },
+    {
+      "category": "Lab Culture",
+      "score": 3,
+      "description": "Likely collaborative and project-focused, but specifics (cadence, travel norms) are unknown."
+    },
+    {
+      "category": "Pipeline",
+      "score": 2,
+      "description": "Alumni outcomes not provided; hard to assess career pipeline alignment."
+    }
+  ],
+  "fitMatrix": {
+    "thrive": [
+      "XR/HCI prototypers eager to build and test museum/education experiences in applied venues.",
+      "Empirical researchers comfortable with user studies and performance modeling in immersive systems.",
+      "Designer–engineer hybrids interested in tangible/multimodal interfaces and cross-reality collaboration.",
+      "Applicants motivated by translational impact in cultural heritage and education domains.",
+      "Initiative-driven students comfortable reaching out directly and scoping XR projects."
+    ],
+    "struggle": [
+      "Students seeking purely theoretical or math-heavy work without prototyping.",
+      "Candidates requiring strict, formalized application protocols and structured hiring steps.",
+      "Students prioritizing guaranteed clinical/medical tracks over museum/education XR.",
+      "Those needing clear evidence of a well-established PhD graduation pipeline and alumni placements upfront.",
+      "Applicants requiring detailed lab policies (authorship, travel, work hours) in advance."
+    ]
+  },
+  "flags": {
+    "green": [
+      "Strong, recent publication activity (2025) in high-impact venues (TVCG, IJHCI, VR).",
+      "Clear thematic focus on XR for cultural heritage and education.",
+      "Broad methodological toolkit (human-centered studies, quantitative modeling, systems prototyping)."
+    ],
+    "yellow": [
+      "Funding sources listed without current status or timelines.",
+      "Website/news freshness unclear despite active publications.",
+      "Operational processes may be lightweight (email-first) with unclear formal protocols."
+    ],
+    "red": [
+      "No explicit PhD hiring details or requirements.",
+      "Team roster and alumni outcomes are absent, limiting assessment of mentorship outcomes and lab stability."
+    ]
+  },
+  "actionPlan": {
+    "gaps": [
+      "Clarify hiring path and role type (PhD/RA/visiting/collaboration) for non‑XJTLU candidates.",
+      "Confirm funding/logistics (stipend, hardware access, conference travel) and active grants.",
+      "Understand culture/mentorship cadence and authorship norms.",
+      "Produce a museum-specific XR prototype to sharpen topical alignment.",
+      "Demonstrate quantitative modeling depth via replication or extension aligned with PI’s TVCG work."
+    ],
+    "verification": [
+      "Are PhD positions currently available, and what are the application requirements and timelines?",
+      "How many PhD/Master/UG students are currently in HER Lab, and what are their roles?",
+      "What is the typical advising cadence (1:1/group meetings) and feedback process on papers?",
+      "What are the lab’s authorship and project ownership policies?",
+      "Which funding sources are currently active, and what student support (stipend, travel, hardware) is available?",
+      "What XR hardware/facilities are maintained, and what access do students have?",
+      "What is the lab’s practice on conference travel and presentation opportunities?",
+      "Are there established partnerships with museums/educational institutions for user studies?",
+      "What are typical publication expectations per year for a PhD student?",
+      "Can I speak with a current student to understand day-to-day norms and onboarding?"
+    ]
+  },
+  "emailKit": [
+    {
+      "label": "Short & Direct (Recommended)",
+      "subject": "Exploring XR + LLM museum guide follow-up (re: your IJHCI ’25)",
+      "body": "Professor Li,\n\nI’m Fangze Qiu (co-author with you on INTERACT ’23 and Chinese CHI ’24). I’m exploring opportunities to contribute to HER Lab’s XR/museum work.\n\nYour IJHCI ’25 on LLM-empowered chatbots in virtual museums and VR ’24 MagicMap strongly align with my recent LLM agent (RAG + LoRA, 20–30% cost reduction) and Unity/UX projects. I’d love to prototype a combined “LLM museum guide + navigation” module and run a focused user study.\n\nAre you currently recruiting (PhD/RA/visiting/collab)? If so, could we schedule a brief call to discuss fit and application steps?\n\nI’ve attached a short CV and can share further materials on request. Portfolio: https://www.innoqiu.cn\n\nBest regards,\nFangze"
+    },
+    {
+      "label": "Standard",
+      "subject": "Former co-author (INTERACT ’23) seeking XR/HCI opportunities",
+      "body": "Professor Li,\n\nI’m Fangze Qiu—previously your co-author on INTERACT ’23 (sport climbing visualization) and Chinese CHI ’24 (Digital Corpse Donator). I’m seeking to continue XR/HCI research in HER Lab.\n\nTwo of your recent directions resonate strongly:\n- IJHCI 2025: LLM-empowered chatbots and avatar guides for virtual museums.\n- VR 2024: MagicMap for indoor navigation in VR museums (or TVCG 2025 ResponsiveView).\n\nMy recent work builds LLM agents with RAG/ChromaDB and LoRA, using prompt distillation to cut API cost by 20–30%, alongside Unity VR and mixed-methods evaluation (e.g., significant usability/aesthetics gains in a data-viz user study). I propose a short pilot: integrate an LLM museum guide with navigation/artifact viewing, then evaluate engagement and learning outcomes.\n\nCould you share whether you’re recruiting (PhD, RA, visiting, or collaboration) and the best path to apply? I’d appreciate a brief call to align on scope, funding/logistics, and expectations.\n\nI’ve attached a concise CV; portfolio: https://www.innoqiu.cn. Additional materials available on request.\n\nThank you for your time,\nFangze"
+    },
+    {
+      "label": "Follow-up (7–10 days)",
+      "subject": "Following up on virtual museum UX and LLM guides",
+      "body": "Professor Li,\n\nFollowing up on my note about a potential XR museum pilot (LLM guide + navigation) aligned with your IJHCI ’25 and VR ’24 work. I’d welcome a brief call to discuss openings and next steps. CV attached; portfolio: https://www.innoqiu.cn.\n\nKind regards,\nFangze"
+    }
+  ]
+}

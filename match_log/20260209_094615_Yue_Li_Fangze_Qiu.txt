@@ -1,0 +1,565 @@
+# Match Analysis Log
+# Generated: 2026-02-09T09:46:15.284038
+# Professor: Yue Li
+# Student: Fangze Qiu
+# ============================================================
+
+# Professor & Lab Analysis Report
+
+                    ## 0. Executive Snapshot (≤10 bullets)
+- Strongest positives
+  - Active publication cadence in 2024–2025, including top HCI/VR venues. Evidence: 2025 items such as “ResponsiveView… (IEEE TVCG, 2025)”, “Understanding… symmetric and asymmetric VR collaborations (Virtual Reality, 2025)”, and 2024–2025 CHI/ISMAR/VR entries.
+  - Clear domain positioning in HCI + XR with applications to museums/cultural heritage and education. Evidence: Stated interests: “Human Computer Interaction (HCI)… Extended Reality (XR)… VR and AR in cultural heritage and education.”
+  - Demonstrated applied, system-building track record in museum/education XR. Evidence: Works like “HeritageSite AR…”, “CubeMuseum AR…”, “MagicMap…”, and “ChemistryVR…”.
+  - Collaboration network across HCI/VR communities and interdisciplinary venues. Evidence: Venues span IEEE TVCG/VR/ISMAR, CHI/CHI EA, IJHCI, JOCCH, plus “Advances in the Integration of Technology and the Built Environment,” and “ACS Applied Materials & Interfaces.”
+  - Repeated corresponding/lead authorship (Li, Y.*) suggests active guidance and topic leadership. Evidence: Many entries mark “Li, Y.*” (e.g., “User-Defined Gesture Interactions for VR Museums,” “MagicMap,” “CubeMuseum AR,” “Factors Influencing Engagement in Hybrid VR and AR.”)
+
+- Main risks/unknowns
+  - PhD recruitment clarity is limited; the profile invites emails for collaboration and XJTLU student projects but does not explicitly state PhD openings. Evidence: “please feel free to send me an email… For XJTLU students who are interested in doing projects with me…”.
+  - Team composition and alumni outcomes are not provided. Evidence: Member list: Information not available in profile; Alumni list: Information not available in profile.
+  - Funding sources are listed without timelines or current-status indicators. Evidence: Funding list includes national and internal programs but no dates or statuses.
+  - Application process is minimal (email only) and lacks required materials or timelines. Evidence: “application_protocol: please feel free to send me an email”; required materials: Information not available in profile.
+  - Lab culture signals (meeting cadence, expectations, authorship norms) are not specified. Evidence: No lab policies or culture statements in the profile.
+
+## 1. Data Quality & Freshness
+### 1.1 Coverage assessment
+- Present:
+  - Identity, title, and affiliation (Assistant Professor; Department of Computing, School of Advanced Technology; HER Lab).
+  - Research interests and extensive publication list (2018–2025) across HCI/XR in cultural heritage and education.
+  - Long list of publication venues and recent items.
+  - Recruitment language (email-based; oriented to collaborations and XJTLU student projects).
+  - Funding sources (names only).
+  - Sub-mentoring signals (UG/Master projects and competitions).
+
+- Missing/limited:
+  - Team roster and roles (Information not available in profile).
+  - Alumni outcomes (Information not available in profile).
+  - Detailed recruitment requirements, timelines, or selection criteria (Information not available in profile).
+  - News updates/website last updated date (Information not available in profile).
+
+Impact: Research footprint appears well-covered; operational/mentoring specifics and pipeline outcomes are under-specified, limiting certainty about lab size, supervision bandwidth, and long-term training outcomes.
+
+### 1.2 Freshness assessment
+- Latest publication date listed: 2025, with multiple 2024–2025 papers (e.g., IEEE TVCG 2025; IJHCI 2025; Virtual Reality 2025; CHI EA 2025).
+- Footer last updated and latest news date: Information not available in profile.
+
+Interpretation: Recent 2025 items indicate current research activity. Lack of site update/news timestamps reduces visibility into non-publication lab updates.
+
+### 1.3 Confidence disclaimer
+- Many conclusions about mentorship style, hiring, and culture rely on inference from publications and minimal recruitment language. Absence of team and alumni data materially weakens confidence on training outcomes, capacity, and advising cadence. Treat assessments of supervision style, funding strength, and lab operations as hypotheses needing confirmation.
+
+## 2. A. Research & Mentorship
+### 2.1 Research Areas & Trajectory
+- Primary themes (ranked):
+  1) XR Interaction & User Experience in VR/AR
+     - Evidence: Multiple works on steering/text selection/locomotion/gaze (“Evaluating… Frame Rate on Steering,” “Exploring… Directional Effects on Steering,” “Exploring Controller-based Techniques for Precise and Rapid Text Selection,” “LeanOn,” “TeleSteer,” “Predicting Gaze-based Target Selection…”).
+  2) Cultural Heritage & Museum Technologies
+     - Evidence: “HeritageSite AR,” “CubeMuseum AR,” “MagicMap: Enhancing Indoor Navigation Experience in VR Museums,” “ResponsiveView: Enhancing 3D Artifact Viewing Experience in VR Museums,” “A Framework for Sharing Cultural Heritage Objects in Hybrid VR and AR Environments.”
+  3) Educational XR and Learning Experiences
+     - Evidence: “ChemistryVR,” “Understanding the Needs of VR for Learning and Teaching: A User-Centered Approach,” “Exploratory 3D Virtual Classrooms,” projects titled “Virtual Reality Education Technology for Smart Museums.”
+  4) Cross-Reality Collaboration and Social XR
+     - Evidence: “Factors Influencing Engagement in Hybrid Virtual and Augmented Reality,” “Presence and Communication in Hybrid VR and AR Environments,” “Cross-Reality Virtual Museum Visiting (Covisit VM),” “The Second Joint Workshop on Cross Reality.”
+
+- Secondary themes / adjacent domains:
+  - Haptics/multimodal feedback and bystander/social perspectives (e.g., “HapticBox,” “AirWhisper,” “Awkward or Acceptable? Bystander Perspective…”).
+  - Visual analytics/data interaction and built environment ties (“Data Cubes in Hand…,” “Creating Panorama Virtual Tour Systems: A Practitioner Perspective,” “Advances in the Integration of Technology and the Built Environment” chapters).
+  - Occasional interdisciplinary forays (e.g., “ACS Applied Materials & Interfaces” e-tattoo paper as co-author).
+
+- Evidence snippets:
+  - Stated interests: “Human Computer Interaction (HCI)… Extended Reality (XR)… design, evaluation, and application of VR and AR in cultural heritage and education.”
+  - Publication examples: “IEEE TVCG (2025): ResponsiveView…,” “IJHCI (2025): LLM-Empowered Chatbots and Avatar Guides…,” “Virtual Reality (2025): Symmetric and asymmetric VR collaborations…,” “JOCCH (2024): HeritageSite AR…”
+
+### 2.2 Research Style Classification (multi-label)
+- Qualitative / Human-centered: 4/5
+  - Evidence: “User-Centered Approach” in education paper; “Exploring User Preferences…,” bystander perspectives; museum user interaction studies.
+  - Interpretation: Frequent user-centered studies, preference elicitation, and experience evaluations in HCI contexts.
+  - Confidence: 80%
+
+- Quantitative / Statistical / Modeling: 3.5/5
+  - Evidence: Modeling/measurement works in TVCG (“Modeling the Effect of Frame Rate on Steering,” “Directional Effects on Steering,” gaze-based selection modeling).
+  - Interpretation: Regular use of quantitative performance modeling and statistical analysis in VR interaction studies.
+  - Confidence: 75%
+
+- Systems / “Hardcore coding” / Tool-building: 4/5
+  - Evidence: Prototypes and systems: “CubeMuseum AR,” “MagicMap,” “Vanti,” “HapticBox,” “Covisit VM,” “ChemistryVR.”
+  - Interpretation: Strong emphasis on building and evaluating XR systems for real applications.
+  - Confidence: 80%
+
+- Experimental / Wet lab / Bench science: 1/5
+  - Evidence: User experiments are common; however, no bench/wet lab. One co-authored “ACS Applied Materials & Interfaces” item suggests interdisciplinary collaboration, not a wet lab focus.
+  - Interpretation: Predominantly human-subject experiments; minimal to no wet-lab activity.
+  - Confidence: 70%
+
+- Theory / Methods: 2.5/5
+  - Evidence: Methodological modeling in TVCG, gesture elicitation studies, CHI/ISMAR method-focused contributions.
+  - Interpretation: Some methods development in VR interaction modeling, but not purely theoretical.
+  - Confidence: 65%
+
+- Translational / Applied (industry/clinical): 4/5
+  - Evidence: Strong application to museums/education, “Practitioner Perspective” chapter, cultural heritage workflows; stated projects on smart museums and metaverse collaboration.
+  - Interpretation: Emphasis on deploying XR in real-world contexts and evaluating impact.
+  - Confidence: 75%
+
+### 2.3 Mentorship Style (hands-on ↔ hands-off)
+- Inference (spectrum position): 2–3 on a 1–7 scale (leaning hands-on)
+  - Evidence:
+    - Many works list “Li, Y.*” as corresponding/lead, often on application-driven prototypes (e.g., “MagicMap,” “User-Defined Gesture Interactions…,” “CubeMuseum AR,” “Factors Influencing Engagement in Hybrid VR and AR,” “HapticBox”).
+    - Sub-mentoring signals include “Undergraduate students and projects” and “Master students and projects,” indicating active supervision of student projects.
+    - Recruitment protocol is direct email (“please feel free to send me an email”), suggesting accessibility and direct engagement.
+  - Interpretation (Inference): Frequent corresponding authorship on diverse student-facing projects suggests iterative guidance and involvement in design/evaluation, consistent with hands-on HCI advising.
+  - Confidence: 60% (team size, meeting cadence, and lab processes are not specified.)
+
+- Stage-variation hypothesis: Not enough explicit evidence to differentiate early vs late PhD advising intensity. (Unknown)
+
+### 2.4 Project Breadth vs Focus
+- Inference: Portfolio-style within a well-defined domain
+  - Evidence:
+    - Breadth: Many topics across XR interaction (steering, text selection, locomotion), museum/heritage experiences, education, social XR, haptics.
+    - Focus: All within HCI/XR, with strong anchoring in museum/education applications and interaction techniques.
+    - Venues across CHI/ISMAR/VR/TVCG/IJHCI and applied chapters/practitioner pieces.
+  - Interpretation (Inference): Students likely have options across several XR-HCI subtopics while remaining within a coherent application domain, offering variety with a unifying XR focus.
+  - Implications: 
+    - Pros: Topic flexibility, opportunities to pivot within XR; exposure to both systems and user studies.
+    - Cons: Potential fragmentation if switching subareas frequently; need to maintain thematic cohesion for the dissertation.
+  - Confidence: 70%
+
+### 2.5 Mentorship Track Record Proxies
+- What’s available:
+  - Sub-mentoring signals list UG/Master projects and competitions, implying active engagement with taught-program students and experiential learning.
+- What’s missing:
+  - Team roster, student counts/roles, and alumni outcomes.
+- Conclusions:
+  - Evidence: “Undergraduate students and projects (SAT301 FYP), Master students and projects (SAT405/6 FMP), International/National Student Competitions, Other Student Projects and Student Awards.”
+  - Inference: The PI likely mentors UG/Master students and encourages competition/project participation; PhD track record is not visible. Confidence: 55% (due to absence of team/alumni detail).
+
+## 3. B. Recruitment & Funding Situation
+### 3.1 Hiring Likelihood
+- Classification: Unclear for PhD; Possibly recruiting for collaborations and internal (XJTLU) student projects
+  - Evidence: “If you have interest in the above projects and want to seek for collaboration opportunities… send me an email.” “For XJTLU students who are interested in doing projects with me… send me an email.”
+  - Inference: The PI is open to collaborations and supervising XJTLU student projects. Explicit PhD openings are not stated.
+  - Confidence: 60% (lack of explicit PhD call or materials keeps uncertainty high).
+
+### 3.2 Funding Health (inference-only unless explicit)
+- Estimate: Moderate (inference)
+  - Evidence: Funding sources list includes national (e.g., NSFC), municipal labs, university funds (XJTLU Research Development/Enhancement Fund, Summer Undergraduate Research Fellowship), and other agencies.
+  - Recent activity: Multiple 2024–2025 publications.
+  - Interpretation (Inference): Presence of diverse funding sources and ongoing publications suggests an active, resourced environment, but without dates or current-status confirmation.
+  - Confidence: 55%
+
+### 3.3 Preferred Student Profile (skills & traits)
+- Must-have (inferred from outputs):
+  - XR prototyping and development for VR/AR systems; ability to run user studies and evaluate UX in XR.
+  - Data analysis/statistics for HCI experiments and performance modeling (e.g., steering/gaze studies).
+- Nice-to-have:
+  - Domain interest in museums/cultural heritage and education; experience with haptics/multimodal feedback or cross-reality collaboration.
+  - Writing for HCI/VR venues (CHI, ISMAR, VR, IJHCI/JOCCH/TVCG).
+- Signals of independence expected:
+  - Minimal application protocol (email-based) suggests self-starting communication; breadth of topics implies initiative to scope and drive subprojects. (Inference; Confidence: 50%)
+- Best-fit applicant archetypes (2–4):
+  - XR/HCI systems builder who enjoys iterative prototyping and user evaluation. Evidence: multiple system-centric papers in museums/education.
+  - Interaction techniques researcher (gaze/steering/locomotion) comfortable with modeling and controlled experiments. Evidence: multiple TVCG/VR modeling studies.
+  - Applied HCI researcher motivated by real-world impact in cultural heritage or education. Evidence: repeated museum/education focus and practitioner chapter.
+
+### 3.4 “Worked-with-before” Pattern
+- Unknown.
+  - Alumni destinations, industry/academia orientation, and career trajectories are not available in the profile.
+
+## 4. C. Lab Culture & Working Norms (inferred carefully)
+- Collaboration vs individual ownership (Inference):
+  - Evidence: Frequent multi-author publications with recurring collaborators (e.g., Liang H.-N., Yu L., and others); workshop/community involvement (“Second Joint Workshop on Cross Reality”).
+  - Hypothesis: Collaboration-oriented culture with cross-lab or cross-group projects; students likely co-author with external/internal collaborators. Confidence: 65%.
+- Feedback cadence hypothesis: Unknown (no meeting or policy details).
+- Stability/turnover risks:
+  - Evidence: Recent 2025 publications indicate ongoing activity; no “ghosting/news” signals provided.
+  - Hypothesis: No explicit instability signals visible; however, absence of team/alumni info limits assessment. Confidence: 50%.
+- Important caveat: Culture is often not visible in public materials. Treat these as hypotheses to confirm with current students.
+
+## 5. D. Additional Categories
+- D1. Student Outcomes & Career Pipeline
+  - Evidence: Alumni list is not provided.
+  - Assessment: Unknown; cannot evaluate typical placements or graduation timelines. Confidence: 30%.
+
+- D2. Lab Operational Maturity (process, onboarding, documentation, protocols)
+  - Evidence: Application is via direct email; no required materials or process steps listed. Sub-mentoring signals show engagement with UG/Master projects and competitions.
+  - Inference: Operations may be lean and flexible rather than process-heavy; onboarding and expectations likely communicated ad hoc. Confidence: 50%.
+
+- D3. Collaboration Network & Interdisciplinarity
+  - Evidence: Publications across CHI/ISMAR/VR/TVCG/IJHCI/JOCCH; interdisciplinary outlets in built environment and a materials journal (“ACS Applied Materials & Interfaces”) indicate cross-domain collaboration.
+  - Inference: The PI/lab collaborates broadly within HCI/VR and occasionally beyond (built environment, materials). Confidence: 70%.
+
+- D4. Responsiveness / Communication Risk
+  - Evidence: Explicit invitation to email for projects/collaboration; no forms or portals; freshness indicated by 2025 publications.
+  - Inference: Likely responsive via email and informal channels; risk is process ambiguity (deadlines/criteria not stated). Confidence: 55%.
+
+## 6. Fit Assessment & Decision Aids
+### 6.1 Fit Matrix (student type × lab type)
+
+| Will likely thrive | May struggle |
+| --- | --- |
+| XR/HCI systems builders who enjoy prototyping and iterative UX testing. Evidence: “CubeMuseum AR,” “MagicMap,” “Vanti,” “HapticBox.” Inference confidence: High. | Students seeking purely theoretical/ML-heavy research. Evidence: Dominant HCI/XR experimental/system papers; little pure theory/ML. Inference confidence: Medium. |
+| Researchers motivated by museum/cultural heritage and education applications. Evidence: Stated interests + “HeritageSite AR,” “ResponsiveView,” “ChemistryVR.” Inference confidence: High. | Applicants needing a rigid, highly structured application/onboarding process. Evidence: Email-only protocol; no required materials stated. Inference confidence: Medium. |
+| Interaction-techniques/UX researchers interested in gaze/steering/locomotion modeling. Evidence: multiple TVCG/VR modeling works. Inference confidence: High. | Candidates expecting clear visibility into large lab hierarchies or alumni pipelines. Evidence: Team/alumni info not available. Inference confidence: Medium. |
+| Collaboration-oriented students comfortable co-authoring across groups. Evidence: Broad coauthorship network and workshop activities. Inference confidence: Medium-High. | Students who prefer narrow, single-topic depth with minimal application context. Evidence: Portfolio within XR with applied focus. Inference confidence: Medium. |
+| Self-starters comfortable with flexible, email-based coordination and evolving project scopes. Evidence: Minimal protocol and broad project list. Inference confidence: Medium. | Those requiring guaranteed PhD openings/funding clarity upfront. Evidence: No explicit PhD call; funding status not time-stamped. Inference confidence: Medium. |
+
+### 6.2 Red Flags / Yellow Flags / Green Flags
+- Red Flags
+  - No explicit PhD hiring statement. Evidence: Only invites email for collaborations/XJTLU student projects → Interpretation: PhD opening status is unclear → Confidence: Medium.
+  - Team/alumni information absent. Evidence: Member and alumni lists not provided → Interpretation: Hard to assess mentorship capacity/outcomes → Confidence: Medium.
+  - Minimal application process detail. Evidence: “please feel free to send me an email” → Interpretation: Ambiguity in selection criteria and timelines → Confidence: Medium.
+
+- Yellow Flags
+  - Funding list without recency/status. Evidence: Many funding sources named, no dates → Interpretation: Hard to gauge current funding strength → Confidence: Medium.
+  - Broad topic spread within XR. Evidence: Interaction techniques, museums, education, social XR, haptics → Interpretation: Potential for fragmentation if not well-scoped → Confidence: Medium.
+  - Heavy collaboration network. Evidence: Frequent multi-author, cross-venue work → Interpretation: Need to clarify authorship norms and individual ownership → Confidence: Medium.
+
+- Green Flags
+  - Strong recent output in 2024–2025. Evidence: TVCG 2025, VR 2025, IJHCI 2025, CHI EA/ISMAR/VR 2024–2025 → Interpretation: Active, current research pipeline → Confidence: High.
+  - Clear domain coherence (HCI+XR in museums/education). Evidence: Stated interests and repeated museum/education projects → Interpretation: Strong thematic identity and impact potential → Confidence: High.
+  - System-building plus rigorous evaluation. Evidence: Prototypes (MagicMap, CubeMuseum AR, Vanti) and modeling/evaluation (TVCG/VR) → Interpretation: Balanced training in building and empirical methods → Confidence: High.
+  - Student-facing project signals. Evidence: UG/Master project and competitions listed → Interpretation: Engagement with student mentorship and experiential learning → Confidence: Medium.
+
+### 6.3 Verification Checklist (what to confirm externally)
+- Confirm whether PhD positions are available, including start dates and funding lines.
+- Ask for team composition: current PhD/masters/UG counts and supervision bandwidth.
+- Clarify expected methods stack (e.g., Unity/Unreal, data analysis, study design) and training provided.
+- Request authorship and project ownership norms (lead expectations; first-author opportunities).
+- Ask about equipment/infrastructure for XR experiments and access policies.
+- Inquire about publication strategy (target venues, expected submission cadence).
+- Verify funding recency for listed sources and what support (stipends, travel) is available.
+- Ask about feedback cadence (1:1s, group meetings, design reviews).
+- Confirm collaboration partners and cross-lab co-supervision practices.
+- Check lab/news page for recent updates beyond publications.
+- Read 3–5 recent papers (e.g., TVCG 2025, IJHCI 2025, VR 2025, JOCCH 2024) to align interests and methods.
+- Speak with current students about workload, autonomy, and timelines.
+
+## 7. Revalidation Aids (for the applicant to verify offline)
+### 7.1 Highest-Impact Unknowns (prioritized)
+- U1: Current PhD openings and timelines
+  - Why it matters: Determines ability to join and when.
+  - Best source: PI directly; department grad office.
+  - Trigger: Recruitment text only invites emails for collaborations/XJTLU projects.
+  - Confidence impact: High.
+
+- U2: Funding status and stability (current vs historical)
+  - Why it matters: Supports stipend, equipment, travel.
+  - Best source: PI; admin; offer letter details.
+  - Trigger: Funding sources listed without dates/status.
+  - Confidence impact: High.
+
+- U3: Team size and composition (PhD/MSc/UG, co-supervisors)
+  - Why it matters: Advising bandwidth; peer support; lab dynamics.
+  - Best source: PI; lab website; current students.
+  - Trigger: Member list not provided.
+  - Confidence impact: High.
+
+- U4: Supervision cadence and style (1:1s, group meetings, feedback loop)
+  - Why it matters: Mentoring fit and productivity.
+  - Best source: PI; current students.
+  - Trigger: No culture/process details in profile.
+  - Confidence impact: Medium-High.
+
+- U5: Authorship norms and project ownership
+  - Why it matters: Publication trajectory and credit.
+  - Best source: PI; coauthors; lab handbook if any.
+  - Trigger: Many multi-author works; norms unspecified.
+  - Confidence impact: Medium.
+
+- U6: Expected methods/tooling and training (Unity/Unreal, data analysis, UX methods)
+  - Why it matters: Onboarding speed; skill gaps.
+  - Best source: PI; recent methods sections in papers.
+  - Trigger: Outputs imply systems + evaluation, no explicit skill list.
+  - Confidence impact: Medium.
+
+- U7: Equipment and lab infrastructure (HMDs, trackers, haptics, recording setups)
+  - Why it matters: Feasibility and throughput of XR experiments.
+  - Best source: PI; lab tour; students.
+  - Trigger: No equipment info provided.
+  - Confidence impact: Medium.
+
+- U8: Travel/conference support
+  - Why it matters: Career development and visibility.
+  - Best source: PI; department policy.
+  - Trigger: Not mentioned; venues indicate potential travel.
+  - Confidence impact: Medium.
+
+- U9: Collaboration structures and co-supervision (internal/external)
+  - Why it matters: Network access and resource sharing.
+  - Best source: PI; collaborators; students.
+  - Trigger: Broad coauthorship network; structure unspecified.
+  - Confidence impact: Medium.
+
+- U10: Degree timeline expectations and milestones
+  - Why it matters: Planning and progress assessment.
+  - Best source: PI; program handbook.
+  - Trigger: No program/lab milestone info.
+  - Confidence impact: Medium.
+
+- U11: Work norms (on-site vs remote, weekly hours, flexibility)
+  - Why it matters: Work-life fit.
+  - Best source: PI; current students.
+  - Trigger: No lab norms stated.
+  - Confidence impact: Medium.
+
+- U12: Fit for non-XJTLU applicants (external PhD admissions route)
+  - Why it matters: Eligibility and application path.
+  - Best source: PI; graduate admissions office.
+  - Trigger: Recruitment text emphasizes XJTLU student projects.
+  - Confidence impact: Medium.
+
+- U13: Access to user populations in museums/education partners
+  - Why it matters: Realistic evaluation studies and data collection.
+  - Best source: PI; project MoUs; paper acknowledgments.
+  - Trigger: Many museum/education studies; partnerships not detailed.
+  - Confidence impact: Medium.
+
+- U14: Risk management for broad portfolios (scope focus for a PhD)
+  - Why it matters: Dissertation coherence and depth.
+  - Best source: PI; student theses; advisors’ guidance norms.
+  - Trigger: Portfolio-style breadth within XR.
+  - Confidence impact: Medium.
+
+### 7.2 Suggested Verification Questions (optional, concise)
+- Questions to ask the PI (mapped to Unknowns)
+  - [U1/U2] Are there funded PhD positions available this cycle, and what are the funding sources/durations?
+  - [U12] What is the application route for non-XJTLU candidates, and are co-tutelle/joint programs possible?
+  - [U3] How many PhD/MSc/UG students are currently in the group, and what is the supervision bandwidth?
+  - [U4] What is your typical meeting cadence (1:1s, group meetings), and how do you provide feedback on drafts/prototypes?
+  - [U5] How are authorship and lead responsibilities determined on multi-author projects?
+  - [U6] Which core tools and methods should incoming students know (e.g., engines, statistics), and what training is provided?
+  - [U7] What XR equipment and lab spaces are available, and how is access managed?
+  - [U8] What is the policy for conference travel and publication fees?
+  - [U9] How do collaborations/co-supervisions work (internal/external partners), and what are expectations?
+  - [U10] What are the expected milestones for PhD progression in this program?
+  - [U14] How do you help students maintain dissertation focus within a broad XR portfolio?
+  - [U13] Are there active partnerships with museums/educational institutions for user studies?
+
+- Questions to ask current students/alumni (mapped to Unknowns)
+  - [U4] How often do you meet with the PI, and how quickly do you receive feedback?
+  - [U3] What is the current lab size, and how does that affect supervision attention?
+  - [U5] How are contributions recognized in authorship for your papers?
+  - [U6] Which skills were most critical in year 1, and how steep was the learning curve?
+  - [U7] Is equipment access sufficient during busy periods? Any bottlenecks?
+  - [U8] Have you received support to attend/present at conferences?
+  - [U10] Are program milestones clear and achievable? Any hidden hurdles?
+  - [U11] What are typical working hours and flexibility? On-site vs remote?
+  - [U14] How did you select and narrow your dissertation topic amid multiple projects?
+  - [U13] How easy is it to recruit participants or access museum/education partners?
+  - [U2] Have funding or administrative delays affected your research?
+  - [U12] For students who joined from outside XJTLU, how smooth was the admission/onboarding?
+
+----------------------------
+
+## 2. A. Research & Mentorship (Fit notes)
+If you are a student interested in XR systems and user studies for museums/education, the profile suggests a strong alignment. If you seek purely theoretical ML or a very structured application process, the fit may be weaker until confirmed otherwise.
+
+----------------------------
+
+## 3. B. Recruitment & Funding Situation (Fit notes)
+If you are an XJTLU student seeking project supervision or a collaborator, the invitation to email aligns well. Prospective PhD students should verify openings and funding specifics directly, as they are not explicit here.
+
+----------------------------
+
+## 4. C. Lab Culture & Working Norms (Fit notes)
+If you enjoy collaborative, multi-author work and applied projects, you may find a good cultural fit. If you require detailed, published lab policies and structured processes, verify these expectations in advance.
+
+----------------------------
+
+## 5. D. Additional Categories (Fit notes)
+Students who value cross-disciplinary exposure (e.g., with built environment, education) may find opportunities here; those prioritizing a narrowly defined theoretical track should confirm topic alignment.
+
+----------------------------
+
+End of report.
+
+                    ---
+
+                    # Match Analysis Report
+
+                    ## 0. Match Snapshot (≤12 bullets)
+- Overall fit rating: 4/5 (Confidence: 75%)
+- Top 3 match strengths:
+  - Prior co-authorship with the PI on HCI topics (INTERACT 2023; Chinese CHI 2024), indicating proven collaboration fit. Evidence: “Interactive Visualization of Sport Climbing Data (INTERACT 2023)” and “Digital Corpse Donator (Chinese CHI 2024)” list Fangze Qiu and Yue Li as co-authors.
+  - Strong overlap in XR/HCI with museums/education and user experience. Evidence: PI focuses on VR/AR for cultural heritage and education (e.g., HeritageSite AR; MagicMap; ResponsiveView; IJHCI works), while student has VR game, XR/IoT UI framework, UX research, and visualization systems.
+  - Student’s LLM-agent work aligns with PI’s recent interest in chatbot/avatar guides for virtual museums. Evidence: Student built RAG/LoRA agents; PI has “LLM-Empowered Chatbots and Avatar Guides in Virtual Museums (IJHCI, 2025).”
+- Top 3 gaps/risks:
+  - PhD openings/funding status are unclear. Evidence: Recruitment text invites emails for collaborations and XJTLU student projects; no explicit PhD call or materials.
+  - Advanced quantitative modeling expectations may exceed current proof. Evidence: PI’s TVCG/VR papers model effects on steering/gaze; student shows user studies and data analysis but no explicit advanced modeling track.
+  - Lab composition/culture details not visible. Evidence: Team/alumni lists not provided; limited signals beyond student projects/competitions.
+- 2 fast verification items:
+  - Are there funded PhD positions available now, and what is the application path (especially for non-current XJTLU students)?
+  - Which core tools/methods are expected (Unity/Unreal stack, statistical modeling), and what training/support is provided?
+
+## 1. Data Quality & Constraints
+1.1 Student data completeness (missing fields and impact)
+- Missing: professional summary, location, LinkedIn/GitHub. Impact: reduces clarity on career goals and public portfolio access; however, projects, skills, and publications are detailed, supporting a strong evidence-based match.
+- Degree timing: MA UX Design (2023-10 to 2025-02). Impact: suggests recent completion; good timing for outreach.
+
+1.2 Professor data completeness + freshness (use stability_signals.freshness_indicators)
+- Freshness: multiple 2025 publications (e.g., TVCG 2025; IJHCI 2025; Virtual Reality 2025) indicate current activity.
+- Missing/limited: team roster, alumni outcomes, process details (meeting cadence, required materials).
+- Recruitment text minimal (email-based).
+
+1.3 Hard constraints detected (e.g., location, degree timing, required materials, deadlines) with evidence paths
+- No explicit deadlines or required materials. Evidence path: recruitment_signals.application_protocol states “please feel free to send me an email.”
+- Target audience mentions XJTLU students and collaborators. Evidence path: recruitment_signals.target_audience. Student is an XJTLU alumnus, which may be advantageous.
+
+## 2. Multi-Dimensional Fit Analysis (score each 0–5)
+
+### 2.1 Topic & Problem Alignment
+- Score: 5/5
+- Evidence: PI’s domain is HCI + XR for cultural heritage and education (e.g., HeritageSite AR; CubeMuseum AR; MagicMap; ResponsiveView). Student has VR game (Maple Valley), XR/IoT UI framework (UnIEM), heritage/UX projects (Digital Corpse Donator), visualization (D-IFSC), and co-authored papers with the PI on HCI topics.
+- Inference: Confidence 90%. Rationale: Direct co-authorship plus multiple student projects in XR/UX strongly match the PI’s museum/education XR focus. Evidence paths: research_interests, application domains, research_items; student projects/publications.
+- Risks/Unknowns: None substantive on topic; only need to ensure dissertation focus within XR breadth.
+- Recommended actions: Emphasize museum/education XR and user study experience; propose a concrete XR system idea (e.g., museum guide/interaction technique) aligned to PI’s recent papers.
+
+### 2.2 Methods/Research Style Alignment
+- Score: 4/5
+- Evidence: PI spans systems building + user studies + quantitative modeling in XR (e.g., TVCG/VR on steering/gaze; ISMAR/VR prototypes; CHI/CHI EA preference/user studies). Student has prototyping (Unity, Arduino), user research (interviews, thematic analysis), quantitative validation (D-IFSC user study), and LLM systems.
+- Inference: Confidence 80%. Rationale: Strong overlap in prototyping and user-centered evaluation; potential gap in advanced statistical modeling typical of TVCG/VR papers. Evidence paths: PI research_items; student skills/projects.
+- Risks/Unknowns: Depth in statistical modeling not explicit; tools like Unity/Unreal usage in formal experiments not fully detailed.
+- Recommended actions: Highlight experiment design and analysis; note willingness to strengthen statistical modeling (e.g., mixed-effects models) and XR engine pipelines used in PI’s works.
+
+### 2.3 Skills Readiness & Research Maturity
+- Score: 4/5
+- Evidence: Student skills include Python/Java/Unity/Arduino; UX methods; data visualization; LLM/RAG/LoRA; publications (INTERACT 2023; Chinese CHI 2024; CyberC 2022). Hands-on projects with validation (D-IFSC user study) and prior co-authorship with PI.
+- Inference: Confidence 85%. Rationale: Student appears research-ready for XR/HCI prototypes and studies; may need to deepen high-end VR interaction modeling/statistics for top-tier VR venues. Evidence paths: student skills/projects/publications.
+- Risks/Unknowns: No explicit advanced stats or modeling course track; lab equipment familiarity unknown.
+- Recommended actions: Prepare a mini portfolio and 1–2-page research plan; state readiness to adopt PI’s modeling approaches and tools.
+
+### 2.4 Mentorship Style Compatibility (hands-on ↔ hands-off)
+- Score: 3/5
+- Evidence: PI frequently corresponding author on student-facing XR systems; recruitment is direct-email; sub-mentoring signals mention UG/Master projects/competitions. Student has experience under mentors at NTU and CityU, indicating comfort with guided research.
+- Inference: Confidence 60%. Rationale: Signals suggest hands-on, iterative guidance typical in HCI/XR labs; specifics (1:1 cadence, group meetings) are unknown. Evidence paths: research_items authorship patterns; team_raw mentoring signals; student projects under mentorship.
+- Risks/Unknowns: No explicit lab culture/process details; advising bandwidth unknown.
+- Recommended actions: Ask about meeting cadence, feedback process, and authorship norms; mention preference for iterative, feedback-rich supervision.
+
+### 2.5 Project Breadth Preference Compatibility
+- Score: 4/5
+- Evidence: PI’s portfolio spans museum/education XR, interaction techniques, social XR, and haptics; student’s portfolio covers visualization, VR game, IoT UI frameworks, LLM agents, and UX studies.
+- Inference: Confidence 70%. Rationale: Both show portfolio-style breadth within XR/HCI; alignment is strong if dissertation focus is maintained. Evidence paths: PI research_items topics; student projects.
+- Risks/Unknowns: Managing breadth to ensure thesis coherence.
+- Recommended actions: Propose a focused theme (e.g., “LLM-guided interaction techniques for virtual museums”) with 2–3 sub-studies.
+
+### 2.6 Recruitment & Funding Feasibility
+- Score: 2/5
+- Evidence: PI invites emails for collaborations and XJTLU student projects; funding sources listed but without current status or timelines.
+- Inference: Confidence 55%. Rationale: Open to collaboration; PhD availability/funding is not explicit; student’s XJTLU background may help, but admission/funding need confirmation. Evidence paths: recruitment_signals; stability_signals.funding_sources.
+- Risks/Unknowns: PhD openings, funding lines, start dates, application path for non-current XJTLU students.
+- Recommended actions: Ask directly about funded PhD positions, eligibility, and application steps; prepare CV/transcripts and a concise proposal.
+
+### 2.7 Lab Culture & Working Norms Fit (cautious)
+- Score: 3/5
+- Evidence: Broad co-authorship network and community engagement (CHI/ISMAR/VR workshops); student mentoring signals (UG/Master projects). No team roster or norms provided.
+- Inference: Confidence 60%. Rationale: Likely collaborative, cross-lab environment; norms (hours, equipment access) are unknown. Evidence paths: research_items co-authorship; team_raw sub-mentoring signals.
+- Risks/Unknowns: Lab size, equipment access, work norms, authorship policies.
+- Recommended actions: Request info on group meetings, equipment/infrastructure, and collaboration structures.
+
+### 2.8 Career Pipeline Alignment
+- Score: 2/5
+- Evidence: Alumni outcomes not provided; student goals not specified.
+- Inference: Confidence 40%. Rationale: Pipeline fit is unclear without alumni or stated student goals. Evidence paths: team_raw.alumni_list (missing); student professional_summary (missing).
+- Risks/Unknowns: Typical placements and support for conference travel/publishing.
+- Recommended actions: Ask about alumni trajectories and conference support; define student’s career goals in outreach.
+
+### 2.9 Communication & Responsiveness Risk (cautious)
+- Score: 3/5
+- Evidence: Explicit invitation to email; multiple 2025 publications indicate active engagement. No ghosting signals.
+- Inference: Confidence 60%. Rationale: Likely responsive; process ambiguity (no materials/timelines) is the main risk. Evidence paths: recruitment_signals; freshness_indicators.latest_publication_date 2025.
+- Risks/Unknowns: Turnaround time on emails; selection criteria.
+- Recommended actions: Use a concise subject, specific ask, and brief proposal; follow up politely after 7–10 days.
+
+## 3. Gap-to-Plan (Actionable)
+3.1 Top 5 gaps to close (ranked) with evidence
+- PhD openings/funding clarity. Evidence: recruitment invites email but no PhD-specific details or materials.
+- Expected method stack and modeling depth. Evidence: PI’s TVCG/VR modeling papers; student hasn’t listed advanced modeling/statistics explicitly.
+- Lab size/infrastructure access. Evidence: team roster/equipment not provided.
+- Authorship norms and publication cadence. Evidence: multi-author pattern present; norms not stated.
+- Dissertation focus within XR breadth. Evidence: PI portfolio breadth; student portfolio breadth.
+
+3.2 How to position the student’s background to this PI (3–6 bullets)
+- Emphasize prior co-authorship with the PI (INTERACT 2023; Chinese CHI 2024) as proof of fit and productivity.
+- Pitch LLM-guided XR experiences for museums/education, bridging student’s agent work with PI’s IJHCI 2025 chatbot/avatar guides.
+- Highlight user study design, qualitative coding, and quantitative validation experience (D-IFSC user study improvements).
+- Show XR prototyping ability (Unity VR game; Arduino haptics; IoT UI framework) and willingness to adopt PI’s modeling methods.
+- Include a concise research mini-plan with a focused theme and 2–3 study ideas.
+
+3.3 Best “2 paper anchors”
+- “The Effects of LLM-Empowered Chatbots and Avatar Guides on the Engagement, Experience, and Learning in Virtual Museums (IJHCI, 2025).” Evidence: Aligns directly with student’s LLM agent development, RAG, and fine-tuning experience. Inference: High-confidence bridge to museum education XR.
+- “MagicMap: Enhancing Indoor Navigation Experience in VR Museums (IEEE VR, 2024)” or “ResponsiveView: Enhancing 3D Artifact Viewing Experience in VR Museums (IEEE TVCG, 2025).” Evidence: Student’s visualization and UX skills can extend interaction/navigation/visual info presentation in museum XR. Inference: Strong bridge for systems + evaluation.
+
+## 4. Outreach & Email Strategy (Tailored)
+4.1 PI-specific outreach preferences
+- Explicit instruction: Email yue.li@xjtlu.edu.cn. No required materials or deadlines specified.
+
+4.2 Best practices for this case (concise, specific, clear ask)
+- Map strengths → PI interests → ask:
+  - Strengths: LLM agents + XR prototyping + user studies + prior joint publications.
+  - PI interests: XR for museums/education; interaction techniques; LLM/chatbot museum guides.
+  - Clear ask: inquire about funded PhD/collaboration openings; propose a brief idea; request a short call to discuss fit and application steps.
+- Keep email ≤220 words; reference 1–2 PI items by title; include CV and portfolio link; avoid attachments overload.
+
+4.3 What to mention
+- Mutual interests: XR/HCI for museums/education and social experiences.
+- PI items: “LLM-Empowered Chatbots and Avatar Guides (IJHCI 2025)”; “MagicMap” or “ResponsiveView.”
+- Student proofs: INTERACT 2023 paper with Yue Li; Chinese CHI 2024 paper with Yue Li; LLM agent project (Discord bots with RAG/LoRA); Unity VR game.
+
+4.4 What to avoid
+- Generic praise without specifics.
+- Long personal biography; overly broad “I can do anything” claims.
+- Demanding supervision or immediate acceptance.
+- Sending large zip files; instead provide CV and a link (e.g., www.innoqiu.cn).
+
+4.5 Attachments checklist
+- CV (2 pages max).
+- Transcripts (BEng, MA) — optional unless requested.
+- 1–2 page research plan aligned to PI’s topics.
+- Portfolio link: www.innoqiu.cn (explicitly provided by the student).
+
+## 5. Email Kit (Ready to Use)
+5.1 Subject lines (6 options)
+- Exploring XR + LLM for Virtual Museums — potential PhD/collab?
+- Prior co-author (INTERACT/Chinese CHI) seeking XR PhD/collab with HER Lab
+- XR museum UX + LLM agents — inquiry about openings
+- Follow-up on HER Lab projects: MagicMap/ResponsiveView + student proposal
+- Inquiry: funded PhD availability in XR/HCI (museums/education)
+- Brief proposal: LLM-guided museum interactions aligned with IJHCI 2025
+
+5.2 Email template — Short (≤140 words)
+Dear Dr. Li,
+I’m Fangze Qiu (XJTLU/Liverpool BEng; UAL MA). We co-authored “Interactive Visualization of Sport Climbing Data” (INTERACT 2023) and “Digital Corpse Donator” (Chinese CHI 2024). 
+
+My recent work builds LLM agents (RAG/LoRA; cost reduced 20–30%) and XR prototypes (Unity VR, Arduino haptics) with user studies. I’d like to explore LLM-guided museum experiences, inspired by your IJHCI 2025 chatbot/avatar guides and VR museum work (e.g., MagicMap or ResponsiveView).
+
+Could we discuss whether you’re recruiting for a funded PhD or collaborations, and the best application path? I can share a 1–2 page idea brief.
+
+CV and portfolio: www.innoqiu.cn
+Best regards,
+Fangze
+Fangze.Qiu@outlook.com | +86 13953699188 / +44 7467203907
+
+5.3 Email template — Standard (≤220 words)
+Dear Dr. Li,
+I’m Fangze Qiu (BEng XJTLU/Liverpool; MA UAL). We co-authored “Interactive Visualization of Sport Climbing Data” (INTERACT 2023) and “Digital Corpse Donator” (Chinese CHI 2024). I’m reaching out to align my next steps with HER Lab.
+
+My recent projects include:
+- LLM agent applications (RAG with Sentence-Transformer + ChromaDB; LoRA; prompt distillation) reducing API costs by ~20–30%.
+- XR prototyping and UX evaluation: Unity VR (Maple Valley), IoT multi-device UI (UnIEM), Arduino haptics, and visualization validated via user studies.
+
+I’m keen to investigate LLM-guided interaction and information presentation in virtual museums, building on your IJHCI 2025 work on chatbots/avatar guides and museum XR systems such as MagicMap/ResponsiveView. Could we discuss whether you’re recruiting (funded PhD or collaborations), expected methods/tools, and the application process?
+
+I can share a concise proposal and am happy to adapt to your modeling/evaluation practices.
+
+Attachments: CV. Portfolio: www.innoqiu.cn
+Thank you for your time.
+Best regards,
+Fangze Qiu
+Fangze.Qiu@outlook.com | +86 13953699188 / +44 7467203907
+
+5.4 Follow-up template (≤80 words; sent after 7–10 days if no reply)
+Dear Dr. Li,
+A gentle follow-up on my inquiry about XR/LLM museum research and potential PhD/collaboration openings. Happy to send a 1–2 page idea brief aligned with your IJHCI 2025 chatbot/avatar work and museum XR projects. Thank you for considering.
+Best,
+Fangze
+www.innoqiu.cn
+                    

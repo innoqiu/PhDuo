@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* === 自定义动画部分 === */
+/* 对应 App.jsx 中的 animate-fade-in-up 类 */
+@layer utilities {
+  .animate-fade-in-up {
+    animation: fadeInUp 0.5s ease-out forwards;
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* === Markdown 内容美化 (如果你没装 typography 插件) === */
+/* 如果你安装了上面的插件，这部分可以省略；没装的话，这段代码能让生成的文字变好看 */
+.prose h1 {
+  @apply text-2xl font-bold text-gray-900 mb-4 mt-6;
+}
+
+.prose h2 {
+  @apply text-xl font-bold text-gray-800 mb-3 mt-5 border-b pb-2;
+}
+
+.prose h3 {
+  @apply text-lg font-semibold text-gray-800 mb-2 mt-4;
+}
+
+.prose p {
+  @apply text-gray-700 leading-relaxed mb-4;
+}
+
+.prose ul {
+  @apply list-disc list-inside mb-4 text-gray-700;
+}
+
+.prose ol {
+  @apply list-decimal list-inside mb-4 text-gray-700;
+}
+
+.prose li {
+  @apply mb-1;
+}
+
+.prose strong {
+  @apply font-semibold text-indigo-700;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-indigo-200 pl-4 italic text-gray-600 my-4;
+}
