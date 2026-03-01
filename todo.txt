@@ -1,4 +1,0 @@
-1. 取消已经上传的pdf
-2. 轻量化爬虫方法
-3. error message display
-4. 缩减apicall时间
