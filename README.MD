@@ -281,17 +281,6 @@ The application implements multi-level caching:
 **Issue**: Database errors
 - **Solution**: Check file permissions for SQLite database. Delete `professors.db` to reset.
 
-## 📝 License
-
-[Add your license information here]
-
-## 🤝 Contributing
-
-[Add contribution guidelines here]
-
-## 📧 Support
-
-[Add support/contact information here]
 
 ---
 
